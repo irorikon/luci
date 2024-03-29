@@ -1,17 +1,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-03-11 01:51+0000\n"
-"Last-Translator: Olexandr Nesterenko <olexn@ukr.net>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationstinyproxy/uk/>\n"
-"Language: uk\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid ""
 "<em>Via proxy</em> routes requests to the given target via the specifed "
@@ -59,7 +55,7 @@ msgid ""
 msgstr ""
 
 msgid "Configuration"
-msgstr "Конфігурація"
+msgstr ""
 
 msgid "Connection timeout"
 msgstr ""
@@ -92,10 +88,10 @@ msgid "Filtering and ACLs"
 msgstr ""
 
 msgid "General settings"
-msgstr "Загальні параметри"
+msgstr ""
 
 msgid "Group"
-msgstr "Група"
+msgstr ""
 
 msgid "HTML template file to serve for stat host requests"
 msgstr ""
@@ -116,13 +112,13 @@ msgid ""
 msgstr ""
 
 msgid "Listen address"
-msgstr "Адреса для прослуховування"
+msgstr ""
 
 msgid "Listen port"
-msgstr "Порт для прослуховування"
+msgstr ""
 
 msgid "Log file"
-msgstr "Файл звіту"
+msgstr ""
 
 msgid "Log file to use for dumping messages"
 msgstr ""
@@ -169,7 +165,7 @@ msgid "Plaintext file with URLs or domains to filter. One entry per line"
 msgstr ""
 
 msgid "Policy"
-msgstr "Політика"
+msgstr ""
 
 msgid "Privacy settings"
 msgstr ""
@@ -178,7 +174,7 @@ msgid "Reject access"
 msgstr ""
 
 msgid "Server Settings"
-msgstr "Налаштування сервера"
+msgstr ""
 
 msgid "Server limits"
 msgstr ""
@@ -219,7 +215,7 @@ msgid "Statistics page"
 msgstr ""
 
 msgid "Status"
-msgstr "Стан"
+msgstr ""
 
 msgid "Target host"
 msgstr ""
@@ -245,7 +241,7 @@ msgid "Use syslog"
 msgstr ""
 
 msgid "User"
-msgstr "Користувач"
+msgstr ""
 
 msgid "Via hostname"
 msgstr ""

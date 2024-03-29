@@ -49,3 +49,7 @@ function proto.contains_interface(self, ifc)
 end
 
 netmod:register_pattern_virtual("^mobiledata%-%w")
+
+netmod:register_error_code("CALL_FAILED",	luci.i18n.translate("Call failed.  Ensure that your SIM is active and has data."))
+netmod:register_error_code("NO_CID",		luci.i18n.translate("Unable to obtain client ID from the carrier.  Check your SIM or try again in a few minutes."))
+netmod:register_error_code("PLMN_FAILED",	luci.i18n.translate("Setting PLMN failed"))

@@ -1,16 +1,13 @@
 msgid ""
 msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-09-23 14:41+0000\n"
-"Last-Translator: Kristoffer Grundström <dsmusicever@gmail.com>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsfirewall/sv/>\n"
+"Last-Translator: Kristoffer Grundström <hamnisdude@gmail.com>\n"
+"Language-Team: none\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "%s in %s"
 msgstr "%s i %s"
@@ -64,7 +61,7 @@ msgid "Allow forward to <em>destination zones</em>:"
 msgstr "Till vidarebefordring till <em>destinationszonerna:</em>:"
 
 msgid "Any"
-msgstr "Något"
+msgstr "Alla"
 
 msgid "Covered networks"
 msgstr "Nätverk som omfattas"
@@ -91,7 +88,7 @@ msgid "Destination zone"
 msgstr "Destinationens zon"
 
 msgid "Disable"
-msgstr "Inaktivera"
+msgstr ""
 
 msgid "Discard forward"
 msgstr ""
@@ -217,7 +214,7 @@ msgid "Limit log messages"
 msgstr "Begränsa loggmeddelanden"
 
 msgid "MAC"
-msgstr "MAC"
+msgstr ""
 
 msgid "MACs"
 msgstr ""
@@ -279,7 +276,7 @@ msgid "Only match incoming traffic directed at the given IP address."
 msgstr ""
 
 msgid "Only match incoming traffic from these MACs."
-msgstr "Matcha endast inkommande trafik från de här MAC-adresserna."
+msgstr ""
 
 msgid "Only match incoming traffic from this IP or range."
 msgstr ""
@@ -383,10 +380,10 @@ msgid ""
 msgstr ""
 
 msgid "Source address"
-msgstr "Adress för källkod"
+msgstr ""
 
 msgid "Source port"
-msgstr "Käll-port"
+msgstr ""
 
 msgid "Source zone"
 msgstr ""
@@ -495,7 +492,7 @@ msgid "Zone %q"
 msgstr "Zon %q"
 
 msgid "Zone ⇒ Forwardings"
-msgstr "Zon ⇒ Vidarebefordringar"
+msgstr ""
 
 msgid "Zones"
 msgstr "Zoner"
@@ -504,7 +501,7 @@ msgid "accept"
 msgstr "acceptera"
 
 msgid "any"
-msgstr "något"
+msgstr "alla"
 
 msgid "any host"
 msgstr "alla värdar"
@@ -516,7 +513,7 @@ msgid "any zone"
 msgstr "alla zoner"
 
 msgid "day"
-msgstr "dag"
+msgstr ""
 
 msgid "don't track"
 msgstr "spåra inte"
@@ -525,31 +522,31 @@ msgid "drop"
 msgstr "släpp"
 
 msgid "hour"
-msgstr "timme"
+msgstr ""
 
 msgid "minute"
-msgstr "minut"
+msgstr ""
 
 msgid "not"
 msgstr ""
 
 msgid "port"
-msgstr "port"
+msgstr ""
 
 msgid "ports"
-msgstr "portar"
+msgstr ""
 
 msgid "reject"
 msgstr "neka"
 
 msgid "second"
-msgstr "sekund"
+msgstr ""
 
 msgid "traffic"
 msgstr "trafik"
 
 msgid "type"
-msgstr "typ"
+msgstr ""
 
 msgid "types"
 msgstr ""

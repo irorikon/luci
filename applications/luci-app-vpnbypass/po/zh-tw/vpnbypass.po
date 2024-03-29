@@ -3,38 +3,19 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-19 21:13+0000\n"
-"Last-Translator: akibou <jinwenxin1997@icloud.com>\n"
-"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
-"openwrt/luciapplicationsvpnbypass/zh_Hant/>\n"
-"Language: zh_Hant\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: Yangfl <mmyangfl@gmail.com>\n"
+"Language-Team:  <debian-l10n-chinese@lists.debian.org>\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5-dev\n"
-
-msgid "%s (disabled)"
-msgstr "%s（已停用）"
-
-msgid "%s is not installed or not found"
-msgstr "%s 未安裝或找不到"
-
-msgid "Disable"
-msgstr "停用"
+"PO-Revision-Date: 2017-10-29 15:30+0800\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 msgid "Domains to Bypass"
 msgstr "要繞過的域"
 
-msgid ""
-"Domains to be accessed directly (outside of the VPN tunnel), see %sREADME%s "
-"for syntax"
-msgstr "要直接存取的網域名稱（不使用 VPN 隧道），請參閱 %sREADME%s 以取得語法"
-
-msgid "Enable"
-msgstr "啟用"
-
-msgid "Loading"
-msgstr "正在載入中"
+msgid "Domains to be accessed directly (outside of the VPN tunnel), see"
+msgstr "要直接訪問的域（不使用 VPN 隧道），請參見"
 
 msgid "Local IP Addresses to Bypass"
 msgstr "要繞過的本地 IP 位址"
@@ -50,6 +31,9 @@ msgstr "要繞過的本地埠"
 msgid "Local ports to trigger VPN Bypass"
 msgstr "觸發 VPN 繞過的本地埠"
 
+msgid "README"
+msgstr "README"
+
 msgid "Remote IP Addresses to Bypass"
 msgstr "要繞過的遠端 IP 位址"
 
@@ -64,47 +48,17 @@ msgstr "要繞過的遠端埠"
 msgid "Remote ports to trigger VPN Bypass"
 msgstr "觸發 VPN 繞過的遠端埠"
 
-msgid "Restart"
-msgstr "重新啟動"
-
-msgid "Running"
-msgstr "運行中"
-
-msgid "Service Status"
-msgstr "服務狀態"
-
-msgid "Service Status [%s %s]"
-msgstr "服務狀態 [%s %s]"
-
-msgid "Start"
-msgstr "啟動"
-
-msgid "Stop"
-msgstr "停止"
-
-msgid "Stopped"
-msgstr "已停止"
-
-msgid "VPN"
-msgstr "VPN虛擬私人網路"
+msgid "Start VPNBypass service"
+msgstr ""
 
 msgid "VPN Bypass"
 msgstr "VPN 繞過"
 
-msgid "VPN Bypass Rules"
-msgstr "VPN繞道規則"
-
 msgid "VPN Bypass Settings"
 msgstr "VPN 繞過設定"
-
-msgid "Domains to be accessed directly (outside of the VPN tunnel), see"
-msgstr "要直接訪問的域（不使用 VPN 隧道），請參見"
-
-msgid "README"
-msgstr "README"
 
 msgid "for syntax"
 msgstr "對於語法"
 
-msgid "Enable/start service"
-msgstr "啟用/啟動服務"
+#~ msgid "Enable/start service"
+#~ msgstr "啟用/啟動服務"

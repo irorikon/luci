@@ -1,300 +1,290 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-05-15 14:32+0000\n"
-"Last-Translator: semih <semiht@gmail.com>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationstransmission/tr/>\n"
-"Language: tr\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7-dev\n"
 
 msgid "Alternative download speed"
-msgstr "Alternatif indirme hızı"
+msgstr ""
 
 msgid "Alternative speed enabled"
-msgstr "Alternatif hız etkinleştirildi"
+msgstr ""
 
 msgid "Alternative speed time begin"
-msgstr "Alternatif hız zamanı başlangıcı"
+msgstr ""
 
 msgid "Alternative speed time day"
-msgstr "Alternatif hız zaman günü"
+msgstr ""
 
 msgid "Alternative speed time end"
-msgstr "Alternatif hız süresi sonu"
+msgstr ""
 
 msgid "Alternative speed timing enabled"
-msgstr "Alternatif hız zamanlaması etkinleştirildi"
+msgstr ""
 
 msgid "Alternative upload speed"
-msgstr "Alternatif karşıya yükleme hızı"
+msgstr ""
 
 msgid "Automatically start added torrents"
-msgstr "Eklenen torrentleri otomatik olarak başlat"
+msgstr ""
 
 msgid "Bandwidth settings"
-msgstr "Bant genişliği ayarları"
+msgstr ""
 
 msgid "Binding address IPv4"
-msgstr "IPv4 için bağlanan adres"
+msgstr ""
 
 msgid "Binding address IPv6"
-msgstr "IPv6 için bağlanan adres"
+msgstr ""
 
 msgid "Block list enabled"
-msgstr "Engelleme listesi etkinleştirildi"
+msgstr ""
 
 msgid "Blocklist URL"
-msgstr "Engelleme listesi URL'si"
+msgstr ""
 
 msgid "Blocklists"
-msgstr "Blok listeleri"
+msgstr ""
 
 msgid "Cache size in MB"
-msgstr "MB cinsinden önbellek boyutu"
+msgstr ""
 
 msgid "Config file directory"
-msgstr "Yapılandırma dosyası dizini"
+msgstr ""
 
 msgid "DHT enabled"
-msgstr "DHT etkin"
+msgstr ""
 
 msgid "Debug"
-msgstr "Hata ayıklama"
+msgstr ""
 
 msgid "Download directory"
-msgstr "İndirme dizini"
+msgstr ""
 
 msgid "Download queue enabled"
-msgstr "İndirme sırası etkinleştirildi"
+msgstr ""
 
 msgid "Download queue size"
-msgstr "İndirme kuyruğu boyutu"
+msgstr ""
 
 msgid "Enable watch directory"
-msgstr "İzleme dizinini etkinleştir"
+msgstr ""
 
 msgid "Enabled"
-msgstr "Etkin"
+msgstr ""
 
 msgid "Encryption"
-msgstr "Şifreleme"
+msgstr ""
 
 msgid "Error"
-msgstr "Hata"
+msgstr ""
 
 msgid "Fast"
-msgstr "Hızlı"
+msgstr ""
 
 msgid "Files and Locations"
-msgstr "Dosyalar ve Konumlar"
+msgstr ""
 
 msgid "Forced"
 msgstr ""
 
 msgid "Full"
-msgstr "Dolu"
+msgstr ""
 
 msgid "Global peer limit"
-msgstr "Genel toplam eş sınırı"
+msgstr ""
 
 msgid "Global settings"
-msgstr "Genel Ayarlar"
+msgstr ""
 
 msgid "Idle seeding limit"
-msgstr "Boş durumdaki gönderme sınırı"
+msgstr ""
 
 msgid "Idle seeding limit enabled"
-msgstr "Boş durumdaki gönderme sınırı etkin"
+msgstr ""
 
 msgid "Incomplete directory"
-msgstr "Tamamlanmamış dosya dizini"
+msgstr ""
 
 msgid "Incomplete directory enabled"
-msgstr "Tamamlanmamış dosya dizini etkin"
+msgstr ""
 
 msgid "Info"
-msgstr "Bilgi"
+msgstr ""
 
 msgid "LPD enabled"
-msgstr "LPD etkin"
+msgstr ""
 
 msgid "Lazy bitfield enabled"
-msgstr "Tembel bit alanı etkinleştirildi"
+msgstr ""
 
 msgid "Message level"
-msgstr "Mesaj seviyesi"
+msgstr ""
 
 msgid "Miscellaneous"
-msgstr "Çeşitli"
+msgstr ""
 
 msgid "None"
-msgstr "Yok"
+msgstr ""
 
 msgid ""
 "Number/bitfield. Start with 0, then for each day you want the scheduler "
 "enabled, add a value. For Sunday - 1, Monday - 2, Tuesday - 4, Wednesday - "
 "8, Thursday - 16, Friday - 32, Saturday - 64"
 msgstr ""
-"Sayı / bit alanı. 0 ile başlayın, ardından zamanlayıcının "
-"etkinleştirilmesini istediğiniz her gün için bir değer ekleyin. Pazar - 1, "
-"Pazartesi - 2, Salı - 4, Çarşamba - 8, Perşembe - 16, Cuma - 32, Cumartesi - "
-"64"
 
 msgid "Off"
-msgstr "Kapalı"
+msgstr ""
 
 msgid "Open Web Interface"
-msgstr "Açık Web Arayüzü"
+msgstr ""
 
 msgid "PEX enabled"
-msgstr "PEX etkin"
+msgstr ""
 
 msgid "Peer Port settings"
-msgstr "Eş Bağlantı Noktası ayarları"
+msgstr ""
 
 msgid "Peer congestion algorithm"
-msgstr "Eş tıkanıklığı algoritması"
+msgstr ""
 
 msgid "Peer limit per torrent"
-msgstr "Torrent başına eş sınırı"
+msgstr ""
 
 msgid "Peer port"
-msgstr "Eş bağlantı noktası"
+msgstr ""
 
 msgid "Peer port random high"
-msgstr "Eş bağlantı noktası rastgele, yüksek"
+msgstr ""
 
 msgid "Peer port random low"
-msgstr "Eş bağlantı noktası rastgele, düşük"
+msgstr ""
 
 msgid "Peer port random on start"
-msgstr "Başlangıçta rastgele eş bağlantı noktası"
+msgstr ""
 
 msgid "Peer settings"
-msgstr "Eş ayarları"
+msgstr ""
 
 msgid "Peer socket tos"
 msgstr ""
 
 msgid "Port forwarding enabled"
-msgstr "Bağlantı noktası yönlendirme etkin"
+msgstr ""
 
 msgid "Preferred"
 msgstr ""
 
 msgid "Prefetch enabled"
-msgstr "Önceden getirme etkinleştirildi"
+msgstr ""
 
 msgid "Queue stalled enabled"
-msgstr "Duran indirme kuyruğu etkinleştirildi"
+msgstr ""
 
 msgid "Queue stalled minutes"
-msgstr "Duran indirme kuyruğu dakikası"
+msgstr ""
 
 msgid "Queueing"
-msgstr "Kuyruk"
+msgstr ""
 
 msgid "RPC URL"
-msgstr "RPC URL'si"
+msgstr ""
 
 msgid "RPC authentication required"
-msgstr "RPC kimlik doğrulaması gerekli"
+msgstr ""
 
 msgid "RPC bind address"
-msgstr "RPC bağlama adresi"
+msgstr ""
 
 msgid "RPC enabled"
-msgstr "RPC etkin"
+msgstr ""
 
 msgid "RPC password"
-msgstr "RPC şifresi"
+msgstr ""
 
 msgid "RPC port"
-msgstr "RPC bağlantı noktası"
+msgstr ""
 
 msgid "RPC settings"
-msgstr "RPC ayarları"
+msgstr ""
 
 msgid "RPC username"
-msgstr "RPC kullanıcı adı"
+msgstr ""
 
 msgid "RPC whitelist"
-msgstr "RPC beyaz listesi"
+msgstr ""
 
 msgid "RPC whitelist enabled"
-msgstr "RPC beyaz listesi etkinleştirildi"
+msgstr ""
 
 msgid "Ratio limit"
-msgstr "Oran sınırı"
+msgstr ""
 
 msgid "Ratio limit enabled"
-msgstr "Oran sınırı etkinleştirildi"
+msgstr ""
 
 msgid "Rename partial files"
-msgstr "Kısmi dosyaları yeniden adlandır"
+msgstr ""
 
 msgid "Run daemon as user"
-msgstr "Arka plan programı kullanıcı olarak çalıştır"
+msgstr ""
 
 msgid "Scheduling"
-msgstr "Planlama"
+msgstr ""
 
 msgid "Scrape paused torrents enabled"
-msgstr "Duraklatılmış torrentleri kazıma etkinleştirildi"
+msgstr ""
 
 msgid "Script torrent done enabled"
-msgstr "Torrent tamamlandı komut dosyası etkinleştirildi"
+msgstr ""
 
 msgid "Script torrent done filename"
-msgstr "Torrent tamamlandı komut dosyası dosya adı"
+msgstr ""
 
 msgid "Seed queue enabled"
-msgstr "Gönderme kuyruğu etkinleştirildi"
+msgstr ""
 
 msgid "Seed queue size"
-msgstr "Gönderme kuyruğu boyutu"
+msgstr ""
 
 msgid "Speed limit down"
-msgstr "İndirme hızı sınırı"
+msgstr ""
 
 msgid "Speed limit down enabled"
-msgstr "İndirme hızı sınırlaması etkin"
+msgstr ""
 
 msgid "Speed limit up"
-msgstr "Karşıya yükleme hızı sınırı"
+msgstr ""
 
 msgid "Speed limit up enabled"
-msgstr "Karşıya yükleme hızı sınırlaması etkin"
+msgstr ""
 
 msgid "Transmission"
-msgstr "Transmission"
+msgstr ""
 
 msgid ""
 "Transmission daemon is a simple bittorrent client, here you can configure "
 "the settings."
 msgstr ""
-"Transmission arka plan programı basit bir bittorrent istemcisidir, burada "
-"ayarları yapılandırabilirsiniz."
 
 msgid "Trash original torrent files"
-msgstr "Orijinal torrent dosyalarını sil"
+msgstr ""
 
 msgid "Upload slots per torrent"
-msgstr "Torrent başına karşıya yükleme slotu sayısı"
+msgstr ""
 
 msgid "Watch directory"
-msgstr "İzleme klasörü"
+msgstr ""
 
 msgid "in minutes from midnight"
-msgstr "gece yarısından dakika sonra"
+msgstr ""
 
 msgid "preallocation"
 msgstr ""
 
 msgid "uTP enabled"
-msgstr "uTP etkin"
+msgstr ""

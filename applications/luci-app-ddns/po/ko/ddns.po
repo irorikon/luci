@@ -1,14 +1,8 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-21 14:31+0000\n"
-"Last-Translator: asdf1234 <cydyellowgreen@gmail.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsddns/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5.2-dev\n"
 
 #: applications/luci-app-ddns/luasrc/view/ddns/overview_status.htm:145
 msgid "&"
@@ -26,7 +20,7 @@ msgstr ""
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:53
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:264
 msgid "Advanced Settings"
-msgstr "고급 설정"
+msgstr ""
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/global.lua:46
 msgid "Allow non-public IP's"
@@ -100,7 +94,7 @@ msgstr ""
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/overview.lua:102
 #: applications/luci-app-ddns/luasrc/view/ddns/system_status.htm:48
 msgid "Configuration"
-msgstr "설정"
+msgstr ""
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/global.lua:27
 msgid ""
@@ -252,7 +246,7 @@ msgstr ""
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:271
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/overview.lua:153
 msgid "Enabled"
-msgstr "활성화"
+msgstr ""
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:1286
 msgid "Error"
@@ -430,7 +424,7 @@ msgstr ""
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:716
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:941
 msgid "Interface"
-msgstr "인터페이스"
+msgstr ""
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:1334
 msgid ""
@@ -514,7 +508,7 @@ msgstr ""
 
 #: applications/luci-app-ddns/luasrc/view/ddns/overview_status.htm:45
 msgid "Never"
-msgstr "안함"
+msgstr ""
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/overview.lua:159
 #: applications/luci-app-ddns/luasrc/view/ddns/system_status.htm:49

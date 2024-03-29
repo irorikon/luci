@@ -1,14 +1,26 @@
 local fs = require "nixio.fs"
 
-string.split = require ("luci.util").split
+function string.split(input, delimiter)
+	input = tostring(input)
+	delimiter = tostring(delimiter)
+	if (delimiter=='') then return false end
+	local pos,arr = 0, {}
+	for st,sp in function() return string.find(input, delimiter, pos, true) end do
+		table.insert(arr, string.sub(input, pos, st - 1))
+		pos = sp + 1
+	end
+	table.insert(arr, string.sub(input, pos))
+	return arr
+end
 
 mp = Map("cpufreq", translate("CPU Freq Settings"))
 mp.description = translate("Set CPU Scaling Governor to Max Performance or Balance Mode")
 
 s = mp:section(NamedSection, "cpufreq", "settings")
+s.anonymouse = true
 
 local policy_nums = luci.sys.exec("echo -n $(find /sys/devices/system/cpu/cpufreq/policy* -maxdepth 0 | grep -Eo '[0-9]+')")
-for _, policy_num in ipairs(policy_nums:split(" ")) do
+for _, policy_num in ipairs(string.split(policy_nums, " ")) do
 	if not fs.access("/sys/devices/system/cpu/cpufreq/policy" .. policy_num .. "/scaling_available_frequencies") then return end
 
 	cpu_freqs = fs.readfile("/sys/devices/system/cpu/cpufreq/policy" .. policy_num .. "/scaling_available_frequencies")
@@ -18,8 +30,8 @@ for _, policy_num in ipairs(policy_nums:split(" ")) do
 	cpu_governors = string.sub(cpu_governors, 1, -3)
 
 
-	freq_array = cpu_freqs:split(" ")
-	governor_array = cpu_governors:split(" ")
+	freq_array = string.split(cpu_freqs, " ")
+	governor_array = string.split(cpu_governors, " ")
 
 	s:tab(policy_num, translate("Policy " .. policy_num))
 

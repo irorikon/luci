@@ -1,49 +1,29 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-24 15:53+0200\n"
-"PO-Revision-Date: 2021-01-15 12:32+0000\n"
-"Last-Translator: Amaury <y0da@live.fr>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationstransmission/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.5-dev\n"
-
 msgid "Alternative download speed"
-msgstr "Vitesse de téléchargement alternative"
+msgstr ""
 
 msgid "Alternative speed enabled"
-msgstr "Vitesse alternative activée"
+msgstr ""
 
-#, fuzzy
 msgid "Alternative speed time begin"
-msgstr "Début de période de vitesse alternative"
+msgstr ""
 
-#, fuzzy
 msgid "Alternative speed time day"
-msgstr "Jour de période de vitesse alternative"
+msgstr ""
 
-#, fuzzy
 msgid "Alternative speed time end"
-msgstr "Fin de période de vitesse alternative"
+msgstr ""
 
-#, fuzzy
 msgid "Alternative speed timing enabled"
-msgstr "Période de vitesse alternative activé"
+msgstr ""
 
 msgid "Alternative upload speed"
-msgstr "Vitesse de d'envoi alternative"
+msgstr ""
 
 msgid "Automatically start added torrents"
-msgstr "Démarrer automatiquement les torrents ajoutés"
+msgstr ""
 
 msgid "Bandwidth settings"
-msgstr "Paramètres de bande passante"
+msgstr ""
 
 msgid "Binding address IPv4"
 msgstr ""
@@ -52,99 +32,94 @@ msgid "Binding address IPv6"
 msgstr ""
 
 msgid "Block list enabled"
-msgstr "Liste de blocage activée"
+msgstr ""
 
 msgid "Blocklist URL"
-msgstr "URL de la liste de blocage"
+msgstr ""
 
 msgid "Blocklists"
-msgstr "Liste de blocage"
+msgstr ""
 
 msgid "Cache size in MB"
-msgstr "Taille du cache en MO"
+msgstr ""
 
 msgid "Config file directory"
-msgstr "Dossier du fichier de configuration"
+msgstr ""
 
 msgid "DHT enabled"
-msgstr "DHT activé"
+msgstr ""
 
 msgid "Debug"
-msgstr "Débogage"
+msgstr ""
 
 msgid "Download directory"
-msgstr "Télécharger un dossier"
+msgstr ""
 
 msgid "Download queue enabled"
-msgstr "File de téléchargement activé"
+msgstr ""
 
 msgid "Download queue size"
-msgstr "Taille de la file de téléchargement"
+msgstr ""
 
 msgid "Enable watch directory"
-msgstr "Observation du répertoire activé"
+msgstr ""
 
 msgid "Enabled"
-msgstr "Activé"
+msgstr ""
 
 msgid "Encryption"
-msgstr "Chiffrement"
+msgstr ""
 
 msgid "Error"
-msgstr "Erreur"
+msgstr ""
 
 msgid "Fast"
-msgstr "Rapide"
+msgstr ""
 
 msgid "Files and Locations"
-msgstr "Fichiers et emplacements"
+msgstr ""
 
 msgid "Forced"
 msgstr ""
 
-#, fuzzy
 msgid "Full"
-msgstr "Plein"
+msgstr ""
 
-#, fuzzy
 msgid "Global peer limit"
-msgstr "Limite global de clients"
+msgstr ""
 
 msgid "Global settings"
-msgstr "Paramètres généraux"
+msgstr ""
 
-#, fuzzy
 msgid "Idle seeding limit"
-msgstr "Limite de partage inactif"
+msgstr ""
 
-#, fuzzy
 msgid "Idle seeding limit enabled"
-msgstr "Limite de partage inactif activé"
+msgstr ""
 
 msgid "Incomplete directory"
-msgstr "Répertoire incomplet"
+msgstr ""
 
 msgid "Incomplete directory enabled"
-msgstr "Répertoire incomplet activé"
+msgstr ""
 
 msgid "Info"
-msgstr "Infos"
+msgstr ""
 
 msgid "LPD enabled"
-msgstr "LDP activé"
+msgstr ""
 
-#, fuzzy
 msgid "Lazy bitfield enabled"
-msgstr "Lazy bitfield activé"
+msgstr ""
 
 msgid "Message level"
-msgstr "Verbosité"
+msgstr ""
 
 msgid "Miscellaneous"
-msgstr "Divers"
+msgstr ""
 
 msgid "None"
-msgstr "Rien"
+msgstr ""
 
 msgid ""
 "Number/bitfield. Start with 0, then for each day you want the scheduler "
@@ -153,56 +128,49 @@ msgid ""
 msgstr ""
 
 msgid "Off"
-msgstr "Éteint"
+msgstr ""
 
 msgid "Open Web Interface"
-msgstr "Ouvrir l'interface web"
+msgstr ""
 
 msgid "PEX enabled"
-msgstr "PEX activé"
+msgstr ""
 
-#, fuzzy
 msgid "Peer Port settings"
-msgstr "Paramètre de port du client"
+msgstr ""
 
-#, fuzzy
 msgid "Peer congestion algorithm"
-msgstr "Algorithme de congestion du client"
+msgstr ""
 
 msgid "Peer limit per torrent"
-msgstr "Limite de client par torrent"
+msgstr ""
 
-#, fuzzy
 msgid "Peer port"
-msgstr "Port client"
+msgstr ""
 
-#, fuzzy
 msgid "Peer port random high"
-msgstr "Port client aléatoirement haut"
+msgstr ""
 
-#, fuzzy
 msgid "Peer port random low"
-msgstr "Port client aléatoirement bas"
+msgstr ""
 
-#, fuzzy
 msgid "Peer port random on start"
-msgstr "Port client aléatoire au démarrage"
+msgstr ""
 
 msgid "Peer settings"
-msgstr "Paramètres du client"
+msgstr ""
 
 msgid "Peer socket tos"
 msgstr ""
 
 msgid "Port forwarding enabled"
-msgstr "Redirection de port activé"
+msgstr ""
 
 msgid "Preferred"
 msgstr ""
 
-#, fuzzy
 msgid "Prefetch enabled"
-msgstr "Prefetch activé"
+msgstr ""
 
 msgid "Queue stalled enabled"
 msgstr ""
@@ -226,16 +194,16 @@ msgid "RPC enabled"
 msgstr ""
 
 msgid "RPC password"
-msgstr "Mot de passe RPC"
+msgstr ""
 
 msgid "RPC port"
-msgstr "Port RPC"
+msgstr ""
 
 msgid "RPC settings"
 msgstr ""
 
 msgid "RPC username"
-msgstr "Nom d'utilisateur RPC"
+msgstr ""
 
 msgid "RPC whitelist"
 msgstr ""
@@ -253,7 +221,7 @@ msgid "Rename partial files"
 msgstr ""
 
 msgid "Run daemon as user"
-msgstr "Exécuter le démon en tant qu'utilisateur"
+msgstr ""
 
 msgid "Scheduling"
 msgstr ""

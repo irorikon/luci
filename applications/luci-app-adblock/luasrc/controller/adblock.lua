@@ -14,7 +14,7 @@ function index()
 	if not nixio.fs.access("/etc/config/adblock") then
 		return
 	end
-	entry({"admin", "services", "adblock"}, firstchild(), _("Adblock"), 30).dependent = false
+	entry({"admin", "services", "adblock"}, firstchild(), _("Adblock DNS List"), 30).dependent = false
 	entry({"admin", "services", "adblock", "tab_from_cbi"}, cbi("adblock/overview_tab", {hideresetbtn=true, hidesavebtn=true}), _("Overview"), 10).leaf = true
 	entry({"admin", "services", "adblock", "log"}, template("adblock/logread"), _("View Logfile"), 20).leaf = true
 	entry({"admin", "services", "adblock", "advanced"}, firstchild(), _("Advanced"), 100)

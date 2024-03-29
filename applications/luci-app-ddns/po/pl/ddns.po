@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: luci-app-ddns 2.4.0-1\n"
 "POT-Creation-Date: 2016-01-30 11:07+0100\n"
-"PO-Revision-Date: 2021-04-20 15:29+0000\n"
-"Last-Translator: Matthaiks <kitynska@gmail.com>\n"
+"PO-Revision-Date: 2020-02-17 11:51+0000\n"
+"Last-Translator: Marcin Net <marcin.net@linux.pl>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationsddns/pl/>\n"
 "Language: pl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 3.11-dev\n"
 
 #: applications/luci-app-ddns/luasrc/view/ddns/overview_status.htm:145
 msgid "&"
@@ -72,7 +72,7 @@ msgid ""
 "BusyBox's nslookup and Wget do not support to specify the IP version to use "
 "for communication with DDNS Provider!"
 msgstr ""
-"nslookup i Wget BusyBox nie obsługują określenia wersji IP, która ma być "
+"BusyBox nslookup i Wget nie obsługują określenia wersji IP, która ma być "
 "używana do komunikacji z dostawcą DDNS!"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/hints.lua:133
@@ -80,8 +80,8 @@ msgid ""
 "BusyBox's nslookup and hostip do not support to specify to use TCP instead "
 "of default UDP when requesting DNS server!"
 msgstr ""
-"nslookup i hostip BusyBox nie obsługują określenia, czy używać TCP zamiast "
-"domyślnego UDP podczas żądania serwera DNS!"
+"Nslookup i hostip BusyBox nie obsługują określania, czy podczas żądania "
+"serwera DNS należy używać TCP zamiast domyślnego UDP!"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/hints.lua:146
 msgid ""
@@ -758,7 +758,7 @@ msgstr "Nie ma skonfigurowanej usługi."
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:56
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:265
 msgid "Timer Settings"
-msgstr "Ustawienia zegara"
+msgstr "Ustawienia czasu"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/overview.lua:101
 msgid "To change global settings click here"
@@ -866,7 +866,7 @@ msgid ""
 "You should install 'bind-host' or 'knot-host' or 'drill' package for DNS "
 "requests."
 msgstr ""
-"Powinieneś zainstalować pakiet 'bind-host' lub 'knot-host' lub 'drill' dla "
+"Powinieneś zainstalować pakiet „bind-host”, „knot-host” lub „drill” dla "
 "żądań DNS."
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/hints.lua:117

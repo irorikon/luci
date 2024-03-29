@@ -1,21 +1,20 @@
 #
-# Yangfl <mmyangfl@gmail.com>, 2017, 2018.
+# Yangfl <mmyangfl@gmail.com>, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-08 14:06+0200\n"
-"PO-Revision-Date: 2021-01-17 20:54+0000\n"
-"Last-Translator: akibou <jinwenxin1997@icloud.com>\n"
-"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
-"openwrt/luciapplicationstransmission/zh_Hant/>\n"
-"Language: zh_Hant\n"
+"PO-Revision-Date: 2017-10-29 15:56+0800\n"
+"Last-Translator: Yangfl <mmyangfl@gmail.com>\n"
+"Language-Team:  <debian-l10n-chinese@lists.debian.org>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 msgid "Alternative download speed"
 msgstr "臨時下載限速"
@@ -63,7 +62,7 @@ msgid "Cache size in MB"
 msgstr "快取大小（MB）"
 
 msgid "Config file directory"
-msgstr "組態檔目錄"
+msgstr "配置檔案的目錄"
 
 msgid "DHT enabled"
 msgstr "啟用 DHT"
@@ -84,10 +83,10 @@ msgid "Enable watch directory"
 msgstr "啟用種子輪詢目錄"
 
 msgid "Enabled"
-msgstr "啟用"
+msgstr "已啟用"
 
 msgid "Encryption"
-msgstr "加密(Encryption)"
+msgstr "加密"
 
 msgid "Error"
 msgstr "錯誤"
@@ -135,21 +134,21 @@ msgid "Message level"
 msgstr "訊息級別"
 
 msgid "Miscellaneous"
-msgstr "雜項"
+msgstr "其他引數"
 
 msgid "None"
-msgstr "無"
+msgstr "空"
 
 msgid ""
 "Number/bitfield. Start with 0, then for each day you want the scheduler "
 "enabled, add a value. For Sunday - 1, Monday - 2, Tuesday - 4, Wednesday - "
 "8, Thursday - 16, Friday - 32, Saturday - 64"
 msgstr ""
-"生效日期是對應日期的算術加和值。對應關係：週日 - 1、週一 - 2、週二 - 4、週三 "
-"- 8、周四 - 16、週五 - 32、週六 - 64"
+"生效日期是對應日期的算術加和值。對應關係：週日-1、週一-2、週二-4、週三-8、周"
+"四-16、週五-32、週六-64。"
 
 msgid "Off"
-msgstr "關"
+msgstr "關閉"
 
 msgid "Open Web Interface"
 msgstr "開啟 Web 管理介面"
@@ -218,7 +217,7 @@ msgid "RPC password"
 msgstr "RPC 密碼"
 
 msgid "RPC port"
-msgstr "RPC 埠號"
+msgstr "RPC 埠"
 
 msgid "RPC settings"
 msgstr "RPC 配置"
@@ -242,7 +241,7 @@ msgid "Rename partial files"
 msgstr "重新命名未完成檔案"
 
 msgid "Run daemon as user"
-msgstr "執行守護行程的使用者"
+msgstr "使用者組"
 
 msgid "Scheduling"
 msgstr "計劃任務"
@@ -280,7 +279,7 @@ msgstr "Transmission"
 msgid ""
 "Transmission daemon is a simple bittorrent client, here you can configure "
 "the settings."
-msgstr "Transmission 是一個簡單的 BitTorrent 客戶端，您可以在這裡設定組態。"
+msgstr "Transmission 是一個簡單的 bittorrent 客戶端，在這裡您可以配置其設定。"
 
 msgid "Trash original torrent files"
 msgstr "刪除種子原始檔"
@@ -292,7 +291,7 @@ msgid "Watch directory"
 msgstr "輪詢種子目錄"
 
 msgid "in minutes from midnight"
-msgstr "從子夜（00:00）到計劃限速起始／終止的分鐘數"
+msgstr "從晚上 00:00 起的分鐘數，限速到臨時速度"
 
 msgid "preallocation"
 msgstr "磁碟預分配策略"

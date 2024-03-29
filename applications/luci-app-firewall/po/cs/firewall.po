@@ -1,16 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-10-27 21:26+0000\n"
-"Last-Translator: Lukas Jelinek <lukas.jelinek@nic.cz>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsfirewall/cs/>\n"
+"PO-Revision-Date: 2014-06-21 11:22+0200\n"
+"Last-Translator: koli <lukas.koluch@gmail.com>\n"
+"Language-Team: none\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.3.2-dev\n"
+"X-Generator: Pootle 2.0.6\n"
 
 msgid "%s in %s"
 msgstr "%s v %s"
@@ -55,7 +54,7 @@ msgid "Add and edit..."
 msgstr "Přidat a upravit"
 
 msgid "Advanced Settings"
-msgstr "Pokročilá nastavení"
+msgstr "Pokročilé nastavení"
 
 msgid "Allow forward from <em>source zones</em>:"
 msgstr "Povolit přesměrování ze <em>zdrojových oblastí</em>:"
@@ -91,7 +90,7 @@ msgid "Destination port"
 msgstr "Cílový port"
 
 msgid "Destination zone"
-msgstr "Cílová zóna"
+msgstr "Cílová oblast"
 
 msgid "Disable"
 msgstr ""
@@ -136,10 +135,10 @@ msgid "External zone"
 msgstr "Vnější zóna"
 
 msgid "Extra arguments"
-msgstr "Další argumenty volání"
+msgstr "Dodatečné argumenty"
 
 msgid "Firewall"
-msgstr "Brána firewall"
+msgstr "Firewall"
 
 msgid "Firewall - Custom Rules"
 msgstr "Firewall - Vlastní pravidla"
@@ -163,7 +162,7 @@ msgid "Forward to"
 msgstr "Přesměrovat na"
 
 msgid "Friday"
-msgstr "pátek"
+msgstr ""
 
 msgid "From %s in %s"
 msgstr "Z %s v %s"
@@ -175,7 +174,7 @@ msgid "From %s in %s with source %s and %s"
 msgstr "Z %s v %s se zdrojovou %s a %s"
 
 msgid "General Settings"
-msgstr "Obecná nastavení"
+msgstr "Obecné nastavení"
 
 msgid "IP"
 msgstr ""
@@ -221,7 +220,7 @@ msgid "Limit log messages"
 msgstr "Omezit logovací zprávy"
 
 msgid "MAC"
-msgstr "MAC"
+msgstr ""
 
 msgid "MACs"
 msgstr ""
@@ -256,10 +255,10 @@ msgstr ""
 "klienta."
 
 msgid "Monday"
-msgstr "pondělí"
+msgstr ""
 
 msgid "Month Days"
-msgstr "Dny v měsíci"
+msgstr ""
 
 msgid "Name"
 msgstr "Název"
@@ -293,7 +292,7 @@ msgid ""
 "range on the client host"
 msgstr ""
 "Vybrat pouze příchozí provoz, pocházející ze zadaného portu nebo rozsahu "
-"portů klienta"
+"portů klienta."
 
 msgid "Open ports on router"
 msgstr "Otevřené porty na routeru"
@@ -324,10 +323,10 @@ msgstr "Protokol"
 msgid ""
 "Redirect matched incoming traffic to the given port on the internal host"
 msgstr ""
-"Přesměrovat vybraný příchozí provoz na uvedený port vnitřního hostitele"
+"Přesměrovat vybraný příchozí provoz na uvedený port vnitřního hostitele."
 
 msgid "Redirect matched incoming traffic to the specified internal host"
-msgstr "Přesměrovat vybraný příchozí provoz na uvedeného vnitřního hostitele"
+msgstr "Přesměrovat vybraný příchozí provoz na uvedeného vnitřního hostitele."
 
 msgid "Refuse forward"
 msgstr ""
@@ -376,7 +375,7 @@ msgid "SNAT port"
 msgstr "Port SNATu"
 
 msgid "Saturday"
-msgstr "sobota"
+msgstr ""
 
 msgid "Source IP address"
 msgstr "Zdrojová IP adresa"
@@ -406,19 +405,19 @@ msgid "Source zone"
 msgstr "Zdrojová zóna"
 
 msgid "Start Date (yyyy-mm-dd)"
-msgstr "Datum zahájení (rrrr-mm-dd)"
+msgstr ""
 
 msgid "Start Time (hh:mm:ss)"
 msgstr ""
 
 msgid "Stop Date (yyyy-mm-dd)"
-msgstr "Datum ukončení (rrrr-mm-dd)"
+msgstr ""
 
 msgid "Stop Time (hh:mm:ss)"
 msgstr ""
 
 msgid "Sunday"
-msgstr "neděle"
+msgstr ""
 
 msgid ""
 "The firewall creates zones over your network interfaces to control network "
@@ -456,6 +455,7 @@ msgstr ""
 "Tato stránka vám umožňuje změnit pokročilé vlastnosti pravidla síťového "
 "provozu, například zdrojové a cílové hostitele."
 
+#, fuzzy
 msgid ""
 "This section defines common properties of %q. The <em>input</em> and "
 "<em>output</em> options set the default policies for traffic entering and "
@@ -466,14 +466,14 @@ msgstr ""
 "Tato sekce definuje běžné možnosti %q. <em>Vstupní</em> a <em>výstupní</em> "
 "možnosti nastavují výchozí politiky pro provoz, vstupující do této zóny a "
 "vystupující z ní, zatímco <em>přesměrovací</em> možnosti popisují politiku "
-"pro přesměrování provozu mezi rozdílnými sítěmi uvnitř jedné zóny. "
-"<em>Pokryté sítě</em> určuje, které z dostupných sítí jsou členy této zóny."
+"pro přesměrování provozu mezi rozdílnými sítěmi uvnitř jedné zóny.<em> "
+"Pokryté sítě</em> určuje, které z dostupných sítí jsou členy této zóny."
 
 msgid "Thursday"
-msgstr "čtvrtek"
+msgstr ""
 
 msgid "Time in UTC"
-msgstr "Čas v UTC"
+msgstr ""
 
 msgid "To %s at %s on <var>this device</var>"
 msgstr "Na %s v %s na <var>tomto zařízení</var>"
@@ -506,7 +506,7 @@ msgstr ""
 "pro otevření WAN portů na routeru."
 
 msgid "Tuesday"
-msgstr "úterý"
+msgstr ""
 
 msgid "Via %s"
 msgstr "Prostřednictvím %s"
@@ -515,10 +515,10 @@ msgid "Via %s at %s"
 msgstr ""
 
 msgid "Wednesday"
-msgstr "středa"
+msgstr ""
 
 msgid "Week Days"
-msgstr "Dny v týdnu"
+msgstr ""
 
 msgid ""
 "You may specify multiple by selecting \"-- custom --\" and then entering "

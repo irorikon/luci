@@ -1,20 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-05-15 14:32+0000\n"
-"Last-Translator: semih <semiht@gmail.com>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationssamba4/tr/>\n"
-"Language: tr\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7-dev\n"
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:78
 msgid "Allow guests"
-msgstr "Konuklara izin ver"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:15
 msgid "Allow system users to reach their home directories via network shares"
@@ -22,71 +18,69 @@ msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:75
 msgid "Allowed users"
-msgstr "İzin verilen kullanıcılar"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:106
 msgid "Apple Time-machine share"
-msgstr "Apple Zaman makinesi paylaşımı"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:63
 msgid "Browse-able"
-msgstr "Göz atılabilir"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:93
 msgid "Create mask"
-msgstr "Maske oluştur"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:12
 msgid "Description"
-msgstr "Açıklama"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:98
 msgid "Directory mask"
-msgstr "Dizin maskesi"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:27
 msgid "Disable Active Directory Domain Controller"
-msgstr "Aktif Dizin Etki Alanı Denetleyicisini Devre Dışı Bırak"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:24
 msgid "Disable Netbios"
-msgstr "Netbios'u devre dışı bırak"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:30
 msgid "Disable Winbind"
-msgstr "Winbind'ı devre dışı bırak"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:9
 msgid "Edit Template"
-msgstr "Şablonu Düzenle"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:34
 msgid "Edit the template that is used for generating the samba configuration."
-msgstr "Samba yapılandırmasını oluşturmak için kullanılan şablonu düzenle."
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:19
 msgid "Enable macOS compatible shares"
-msgstr "MacOS uyumlu paylaşımları etkinleştir"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:20
 msgid ""
 "Enables Apple's AAPL extension globally and adds macOS compatibility options "
 "to all shares."
 msgstr ""
-"Apple'ın AAPL uzantısını global olarak etkinleştirir ve tüm paylaşımlara "
-"macOS uyumluluk seçenekleri ekler."
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:73
 msgid "Force Root"
-msgstr "Kökü Zorla"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:8
 msgid "General Settings"
-msgstr "Genel Ayarlar"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:83
 msgid "Guests only"
-msgstr "Sadece misafirler"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:11
 msgid "Hostname"
@@ -94,32 +88,30 @@ msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:88
 msgid "Inherit owner"
-msgstr "Sahibi devral"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:57
 msgid "Name"
-msgstr "Ad"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/controller/samba4.lua:12
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:3
 msgid "Network Shares"
-msgstr "Ağ Paylaşımları"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:58
 msgid "Path"
-msgstr "Yol"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:52
 msgid ""
 "Please add directories to share. Each directory refers to a folder on a "
 "mounted device."
 msgstr ""
-"Lütfen paylaşılacak dizinleri ekleyin. Her dizin, bağlı bir cihazdaki bir "
-"klasörü ifade eder."
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:68
 msgid "Read-only"
-msgstr "Salt okunur"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:14
 msgid "Share home-directories"
@@ -127,7 +119,7 @@ msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:51
 msgid "Shared Directories"
-msgstr "Paylaşılan Dizinler"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:35
 msgid ""
@@ -136,18 +128,15 @@ msgid ""
 "('|') should not be changed. They get their values from the 'General "
 "Settings' tab."
 msgstr ""
-"Bu, samba yapılandırmanızın oluşturulacağı '/etc/samba/smb.conf.template' "
-"dosyasının içeriğidir. Boru sembolleriyle ('|') çevrelenen değerler "
-"değiştirilmemelidir. Değerlerini 'Genel Ayarlar' sekmesinden alırlar."
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:108
 msgid "Time-machine size in GB"
-msgstr "GB cinsinden zaman makinesi boyutu"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:103
 msgid "Vfs objects"
-msgstr "Vfs nesneleri"
+msgstr ""
 
 #: applications/luci-app-samba4/luasrc/model/cbi/samba4.lua:13
 msgid "Workgroup"
-msgstr "Çalışma grubu"
+msgstr ""

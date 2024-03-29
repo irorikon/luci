@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: luci-app-ddns 2.4.0-1\n"
 "POT-Creation-Date: 2016-01-30 11:07+0100\n"
-"PO-Revision-Date: 2021-05-07 11:32+0000\n"
-"Last-Translator: Omar Destefani <omar.destefani@gmail.com>\n"
+"PO-Revision-Date: 2020-02-28 00:34+0000\n"
+"Last-Translator: TuxAlex0 <alex.skatingcassano@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationsddns/it/>\n"
 "Language: it\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #: applications/luci-app-ddns/luasrc/view/ddns/overview_status.htm:145
 msgid "&"
@@ -370,7 +370,7 @@ msgstr "GNU Wget userà l'IP della rete data, cURL userà l'interfaccia fisica."
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/global.lua:26
 msgid "Global Settings"
-msgstr "Impostazioni globali"
+msgstr "Opzioni Globali"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:606
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:615
@@ -399,7 +399,7 @@ msgstr "Versione indirizzo IP"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:305
 msgid "IPv4-Address"
-msgstr "Indirizzo-IPv4"
+msgstr "Indirizzo IPv4"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:1244
 msgid "IPv6 address must be given in square brackets"
@@ -424,7 +424,7 @@ msgstr "IPv6 non supportato"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:309
 msgid "IPv6-Address"
-msgstr "Indirizzo-IPv6"
+msgstr "Indirizzo IPv6"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/global.lua:114
 msgid "If both cURL and GNU Wget are installed, Wget is used by default."
@@ -597,7 +597,7 @@ msgstr "Ip non pubblici e bloccati di default"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:1284
 msgid "Notice"
-msgstr "Notizia"
+msgstr "Avviso"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/global.lua:96
 msgid "Number of last lines stored in log files"
@@ -672,7 +672,7 @@ msgstr "SERVER PROXY non supportato"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:502
 msgid "Password"
-msgstr "Password"
+msgstr "Mot de passe"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:630
 msgid "Path to CA-Certificate"
@@ -832,7 +832,7 @@ msgstr "Script definito dall'utente per leggere l'indirizzo IP dei sistemi"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/detail.lua:491
 msgid "Username"
-msgstr "Nome utente"
+msgstr "Nome Utente"
 
 #: applications/luci-app-ddns/luasrc/model/cbi/ddns/hints.lua:145
 msgid "Using specific DNS Server not supported"

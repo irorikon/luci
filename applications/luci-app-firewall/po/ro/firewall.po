@@ -1,17 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-03-29 12:19+0000\n"
-"Last-Translator: Cristian Ionescu <joker_op@yahoo.com>\n"
-"Language-Team: Romanian <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsfirewall/ro/>\n"
+"PO-Revision-Date: 2014-06-29 19:33+0200\n"
+"Last-Translator: xxvirusxx <condor20_05@yahoo.it>\n"
+"Language-Team: none\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.0.6\n"
 
 msgid "%s in %s"
 msgstr "%s în %s"
@@ -47,7 +46,7 @@ msgid "Accept input"
 msgstr ""
 
 msgid "Action"
-msgstr "Actiune"
+msgstr "Acţiune"
 
 msgid "Add"
 msgstr "Adaugă"
@@ -89,7 +88,7 @@ msgid "Destination port"
 msgstr "Portul destinatie"
 
 msgid "Destination zone"
-msgstr "Zonă de destinație"
+msgstr "Zona destinatie"
 
 msgid "Disable"
 msgstr ""
@@ -143,10 +142,10 @@ msgid "Firewall - Custom Rules"
 msgstr "Firewall - Reguli particularizate"
 
 msgid "Firewall - Port Forwards"
-msgstr "Firewall - Port-uri forwardate"
+msgstr ""
 
 msgid "Firewall - Traffic Rules"
-msgstr "Firewall - Reguli ale traficului"
+msgstr ""
 
 msgid "Firewall - Zone Settings"
 msgstr "Setari zona la firewall"
@@ -161,7 +160,7 @@ msgid "Forward to"
 msgstr ""
 
 msgid "Friday"
-msgstr "Vineri"
+msgstr ""
 
 msgid "From %s in %s"
 msgstr ""
@@ -173,7 +172,7 @@ msgid "From %s in %s with source %s and %s"
 msgstr ""
 
 msgid "General Settings"
-msgstr "Setări generale"
+msgstr "Setari generale"
 
 msgid "IP"
 msgstr ""
@@ -218,7 +217,7 @@ msgid "Limit log messages"
 msgstr "Limitează mesaje în log"
 
 msgid "MAC"
-msgstr "MAC"
+msgstr ""
 
 msgid "MACs"
 msgstr ""
@@ -249,7 +248,7 @@ msgid ""
 msgstr ""
 
 msgid "Monday"
-msgstr "Luni"
+msgstr ""
 
 msgid "Month Days"
 msgstr ""
@@ -361,7 +360,7 @@ msgid "SNAT port"
 msgstr ""
 
 msgid "Saturday"
-msgstr "Sâmbătă"
+msgstr ""
 
 msgid "Source IP address"
 msgstr "Sursă adresă IP"
@@ -400,7 +399,7 @@ msgid "Stop Time (hh:mm:ss)"
 msgstr ""
 
 msgid "Sunday"
-msgstr "Duminică"
+msgstr ""
 
 msgid ""
 "The firewall creates zones over your network interfaces to control network "
@@ -435,7 +434,7 @@ msgid ""
 msgstr ""
 
 msgid "Thursday"
-msgstr "Joi"
+msgstr ""
 
 msgid "Time in UTC"
 msgstr ""
@@ -468,7 +467,7 @@ msgid ""
 msgstr ""
 
 msgid "Tuesday"
-msgstr "Marţi"
+msgstr ""
 
 msgid "Via %s"
 msgstr ""
@@ -477,7 +476,7 @@ msgid "Via %s at %s"
 msgstr ""
 
 msgid "Wednesday"
-msgstr "Miercuri"
+msgstr ""
 
 msgid "Week Days"
 msgstr ""
@@ -509,10 +508,10 @@ msgid "any router IP"
 msgstr ""
 
 msgid "any zone"
-msgstr "orice zona"
+msgstr ""
 
 msgid "day"
-msgstr "zi"
+msgstr ""
 
 msgid "don't track"
 msgstr ""
@@ -521,10 +520,10 @@ msgid "drop"
 msgstr ""
 
 msgid "hour"
-msgstr "oră"
+msgstr ""
 
 msgid "minute"
-msgstr "minut"
+msgstr ""
 
 msgid "not"
 msgstr ""
@@ -539,13 +538,13 @@ msgid "reject"
 msgstr ""
 
 msgid "second"
-msgstr "secundă"
+msgstr ""
 
 msgid "traffic"
 msgstr ""
 
 msgid "type"
-msgstr "tip"
+msgstr ""
 
 msgid "types"
 msgstr ""

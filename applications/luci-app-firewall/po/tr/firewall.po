@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2021-05-18 05:32+0000\n"
-"Last-Translator: semih <semiht@gmail.com>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsfirewall/tr/>\n"
-"Language: tr\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7-dev\n"
 
 msgid "%s in %s"
 msgstr ""
@@ -46,7 +42,7 @@ msgid "Accept input"
 msgstr ""
 
 msgid "Action"
-msgstr "Eylem"
+msgstr ""
 
 msgid "Add"
 msgstr ""
@@ -55,44 +51,40 @@ msgid "Add and edit..."
 msgstr ""
 
 msgid "Advanced Settings"
-msgstr "Gelişmiş Ayarlar"
+msgstr ""
 
 msgid "Allow forward from <em>source zones</em>:"
-msgstr "<em>Kaynak bölgelerden</em> gelen yönlendirmeye izin ver"
+msgstr ""
 
 msgid "Allow forward to <em>destination zones</em>:"
-msgstr "<em> Hedef bölgelerden </em> gelen yönlendirmeye izin ver"
+msgstr ""
 
 msgid "Any"
-msgstr "Herhangi"
+msgstr ""
 
 msgid "Covered networks"
-msgstr "Kapsanan ağlar"
+msgstr ""
 
 msgid "Custom Rules"
-msgstr "Özel Ayarlar"
+msgstr ""
 
 msgid ""
 "Custom rules allow you to execute arbitrary iptables commands which are not "
 "otherwise covered by the firewall framework. The commands are executed after "
 "each firewall restart, right after the default ruleset has been loaded."
 msgstr ""
-"Özel kurallar, güvenlik duvarı çerçevesi tarafından başka şekilde "
-"kapsanmayan keyfi iptables komutlarını yürütmenize olanak tanır. Komutlar, "
-"her güvenlik duvarı yeniden başlatıldıktan sonra, varsayılan kural seti "
-"yüklendikten hemen sonra yürütülür."
 
 msgid "Destination IP address"
 msgstr ""
 
 msgid "Destination address"
-msgstr "Hedef adres"
+msgstr ""
 
 msgid "Destination port"
-msgstr "Hedef bağlantı noktası"
+msgstr ""
 
 msgid "Destination zone"
-msgstr "Hedef bölge"
+msgstr ""
 
 msgid "Disable"
 msgstr ""
@@ -113,58 +105,58 @@ msgid "Do not track input"
 msgstr ""
 
 msgid "Drop invalid packets"
-msgstr "Geçersiz paketleri düşür"
+msgstr ""
 
 msgid "Enable"
-msgstr "Etkinleştir"
+msgstr ""
 
 msgid "Enable NAT Loopback"
-msgstr "NAT Döngü sınamasını etkinleştir"
+msgstr ""
 
 msgid "Enable SYN-flood protection"
-msgstr "SYN-flood korumasını etkinleştir"
+msgstr ""
 
 msgid "Enable logging on this zone"
-msgstr "Bu bölgede günlük kaydetmeyi etkinleştir"
+msgstr ""
 
 msgid "External IP address"
-msgstr "Harici IP adresi"
+msgstr ""
 
 msgid "External port"
-msgstr "Harici port"
+msgstr ""
 
 msgid "External zone"
 msgstr ""
 
 msgid "Extra arguments"
-msgstr "Ekstra argümanlar"
+msgstr ""
 
 msgid "Firewall"
-msgstr "Güvenlik Duvarı"
+msgstr ""
 
 msgid "Firewall - Custom Rules"
-msgstr "Güvenlik duvarı - Özel Kurallar"
+msgstr ""
 
 msgid "Firewall - Port Forwards"
-msgstr "Güvelik duvarı - Port Yönlendirme"
+msgstr ""
 
 msgid "Firewall - Traffic Rules"
-msgstr "Güvenlik duvarı - Trafik Kuralları"
+msgstr ""
 
 msgid "Firewall - Zone Settings"
-msgstr "Güvenlik duvarı - Bölge Ayarları"
+msgstr ""
 
 msgid "Force connection tracking"
 msgstr ""
 
 msgid "Forward"
-msgstr "Yönlendir"
+msgstr ""
 
 msgid "Forward to"
 msgstr ""
 
 msgid "Friday"
-msgstr "Cuma"
+msgstr ""
 
 msgid "From %s in %s"
 msgstr ""
@@ -176,7 +168,7 @@ msgid "From %s in %s with source %s and %s"
 msgstr ""
 
 msgid "General Settings"
-msgstr "Genel Ayarlar"
+msgstr ""
 
 msgid "IP"
 msgstr ""
@@ -188,55 +180,55 @@ msgid "IPs"
 msgstr ""
 
 msgid "IPv4"
-msgstr "IPv4"
+msgstr ""
 
 msgid "IPv4 and IPv6"
-msgstr "IPv4 ve IPv6"
+msgstr ""
 
 msgid "IPv4 only"
-msgstr "Yalnızca IPv4"
+msgstr ""
 
 msgid "IPv6"
 msgstr ""
 
 msgid "IPv6 only"
-msgstr "Yalnızca IPv6"
+msgstr ""
 
 msgid "Input"
-msgstr "Giriş"
+msgstr ""
 
 msgid "Inter-Zone Forwarding"
 msgstr ""
 
 msgid "Internal IP address"
-msgstr "Dahili IP adresi"
+msgstr ""
 
 msgid "Internal port"
-msgstr "İç bağlantı noktası"
+msgstr ""
 
 msgid "Internal zone"
-msgstr "İç bölge"
+msgstr ""
 
 msgid "Limit log messages"
-msgstr "Günlük mesajlarını sınırla"
+msgstr ""
 
 msgid "MAC"
-msgstr "MAC"
+msgstr ""
 
 msgid "MACs"
 msgstr ""
 
 msgid "MSS clamping"
-msgstr "MSS bağlama"
+msgstr ""
 
 msgid "Masquerading"
-msgstr "Maskeleme"
+msgstr ""
 
 msgid "Match"
-msgstr "Eşleştir"
+msgstr ""
 
 msgid "Match ICMP type"
-msgstr "ICMP tipiyle eşleş"
+msgstr ""
 
 msgid "Match forwarded traffic to the given destination port or port range."
 msgstr ""
@@ -245,8 +237,6 @@ msgid ""
 "Match incoming traffic directed at the given destination port or port range "
 "on this host"
 msgstr ""
-"Bu ana bilgisayardaki belirli hedef bağlantı noktasına veya bağlantı noktası "
-"aralığına yönlendirilen gelen trafiği eşleştirin"
 
 msgid ""
 "Match incoming traffic originating from the given source port or port range "
@@ -254,13 +244,13 @@ msgid ""
 msgstr ""
 
 msgid "Monday"
-msgstr "Pazartesi"
+msgstr ""
 
 msgid "Month Days"
-msgstr "Ayın Günleri"
+msgstr ""
 
 msgid "Name"
-msgstr "Ad"
+msgstr ""
 
 msgid "New SNAT rule"
 msgstr ""
@@ -278,20 +268,18 @@ msgid "New source NAT"
 msgstr ""
 
 msgid "Only match incoming traffic directed at the given IP address."
-msgstr "Yalnızca verilen IP adresine yönlendirilen gelen trafiği eşleştirin."
+msgstr ""
 
 msgid "Only match incoming traffic from these MACs."
-msgstr "Yalnızca bu MAC'lardan gelen trafiği eşleştirin."
+msgstr ""
 
 msgid "Only match incoming traffic from this IP or range."
-msgstr "Yalnızca bu IP veya aralıktan gelen trafiği eşleştirin."
+msgstr ""
 
 msgid ""
 "Only match incoming traffic originating from the given source port or port "
 "range on the client host"
 msgstr ""
-"Yalnızca istemci ana bilgisayardaki belirli kaynak bağlantı noktasından veya "
-"bağlantı noktası aralığından gelen trafiği eşleştirin"
 
 msgid "Open ports on router"
 msgstr ""
@@ -300,32 +288,28 @@ msgid "Other..."
 msgstr ""
 
 msgid "Output"
-msgstr "Çıkış"
+msgstr ""
 
 msgid "Passes additional arguments to iptables. Use with care!"
-msgstr "İptables'a ek argümanlar iletir. Dikkatli kullanın!"
+msgstr ""
 
 msgid "Port Forwards"
-msgstr "Port Yönlendirmeleri"
+msgstr ""
 
 msgid ""
 "Port forwarding allows remote computers on the Internet to connect to a "
 "specific computer or service within the private LAN."
 msgstr ""
-"Bağlantı noktası yönlendirme, İnternet üzerindeki uzak bilgisayarların özel "
-"LAN içindeki belirli bir bilgisayara veya hizmete bağlanmasına izin verir."
 
 msgid "Protocol"
-msgstr "Protokol"
+msgstr ""
 
 msgid ""
 "Redirect matched incoming traffic to the given port on the internal host"
 msgstr ""
-"Gelen trafiği dahili ana bilgisayardaki belirli bağlantı noktasına "
-"yönlendirin"
 
 msgid "Redirect matched incoming traffic to the specified internal host"
-msgstr "Gelen trafiği belirtilen dahili ana bilgisayara yönlendirin"
+msgstr ""
 
 msgid "Refuse forward"
 msgstr ""
@@ -337,13 +321,13 @@ msgid "Restart Firewall"
 msgstr ""
 
 msgid "Restrict Masquerading to given destination subnets"
-msgstr "Maskelendirmeyi verilen hedef alt ağlarla sınırla"
+msgstr ""
 
 msgid "Restrict Masquerading to given source subnets"
-msgstr "Maskelemeyi verilen kaynak alt ağlarla kısıtla"
+msgstr ""
 
 msgid "Restrict to address family"
-msgstr "Adres ailesiyle sınırla"
+msgstr ""
 
 msgid "Rewrite matched traffic to the given address."
 msgstr ""
@@ -372,13 +356,13 @@ msgid "SNAT port"
 msgstr ""
 
 msgid "Saturday"
-msgstr "Cumartesi"
+msgstr ""
 
 msgid "Source IP address"
-msgstr "Kaynak IP Adresi"
+msgstr ""
 
 msgid "Source MAC address"
-msgstr "Kaynak MAC adresi"
+msgstr ""
 
 msgid "Source NAT"
 msgstr ""
@@ -390,35 +374,33 @@ msgid ""
 msgstr ""
 
 msgid "Source address"
-msgstr "Kaynak adresi"
+msgstr ""
 
 msgid "Source port"
-msgstr "Kaynak portu"
+msgstr ""
 
 msgid "Source zone"
-msgstr "Kaynak bölgesi"
+msgstr ""
 
 msgid "Start Date (yyyy-mm-dd)"
-msgstr "Başlangıç Tarihi (yyyy-aa-gg)"
+msgstr ""
 
 msgid "Start Time (hh:mm:ss)"
 msgstr ""
 
 msgid "Stop Date (yyyy-mm-dd)"
-msgstr "Bitiş Tarihi (yyyy-aa-gg)"
+msgstr ""
 
 msgid "Stop Time (hh:mm:ss)"
 msgstr ""
 
 msgid "Sunday"
-msgstr "Pazar"
+msgstr ""
 
 msgid ""
 "The firewall creates zones over your network interfaces to control network "
 "traffic flow."
 msgstr ""
-"Güvenlik duvarı, ağ trafiği akışını kontrol etmek için ağ arayüzleriniz "
-"üzerinde bölgeler oluşturur."
 
 msgid ""
 "The options below control the forwarding policies between this zone (%s) and "
@@ -428,12 +410,6 @@ msgid ""
 "rule is <em>unidirectional</em>, e.g. a forward from lan to wan does "
 "<em>not</em> imply a permission to forward from wan to lan as well."
 msgstr ""
-"Aşağıdaki seçenekler, bu bölge (%s) ile diğer bölgeler arasındaki "
-"yönlendirme politikalarını kontrol eder. <em>Hedef bölgeler</em> "
-"yönlendirilen trafiği eşleştirin <strong>hedeflenen %q</strong>. <em>Kaynak "
-"bölgeler</em> diğer bölgelerden gelen trafiği eşleştirin <strong>hedeflenen "
-"%q</strong>. İletim kuralı <em>tek yönlüdür</em>,Örneğin. lan'dan wan'a "
-"yönlendirme, wan'dan lan'a yönlendirme izni <em>anlamına gelmez</em>."
 
 msgid ""
 "This page allows you to change advanced properties of the port forwarding "
@@ -452,17 +428,12 @@ msgid ""
 "forwarded traffic between different networks within the zone. <em>Covered "
 "networks</em> specifies which available networks are members of this zone."
 msgstr ""
-"Bu bölüm,% q öğesinin ortak özelliklerini tanımlar. <em>giriş</em> ve "
-"<em>çıkış</em> seçenekleri, bu bölgeye giren ve çıkan trafik için varsayılan "
-"politikaları ayarlarken, <em>yönlendir</em> seçeneği farklı ağlar arasında "
-"yönlendirilen trafik için politikayı açıklar bölge içinde. <em>Kapsanan ağla "
-"</em>, hangi kullanılabilir ağların bu bölgenin üyesi olduğunu belirtir."
 
 msgid "Thursday"
-msgstr "Perşembe"
+msgstr ""
 
 msgid "Time in UTC"
-msgstr "UTC Zamanı"
+msgstr ""
 
 msgid "To %s at %s on <var>this device</var>"
 msgstr ""
@@ -483,19 +454,16 @@ msgid "To source port"
 msgstr ""
 
 msgid "Traffic Rules"
-msgstr "Trafik kuralları"
+msgstr ""
 
 msgid ""
 "Traffic rules define policies for packets traveling between different zones, "
 "for example to reject traffic between certain hosts or to open WAN ports on "
 "the router."
 msgstr ""
-"Trafik kuralları, örneğin belirli ana bilgisayarlar arasındaki trafiği "
-"reddetmek veya yönlendiricide WAN bağlantı noktalarını açmak gibi farklı "
-"bölgeler arasında seyahat eden paketler için politikalar tanımlar."
 
 msgid "Tuesday"
-msgstr "Salı"
+msgstr ""
 
 msgid "Via %s"
 msgstr ""
@@ -504,10 +472,10 @@ msgid "Via %s at %s"
 msgstr ""
 
 msgid "Wednesday"
-msgstr "Çarşamba"
+msgstr ""
 
 msgid "Week Days"
-msgstr "Hafta içi"
+msgstr ""
 
 msgid ""
 "You may specify multiple by selecting \"-- custom --\" and then entering "
@@ -518,16 +486,16 @@ msgid "Zone %q"
 msgstr ""
 
 msgid "Zone ⇒ Forwardings"
-msgstr "Bölge ⇒ Yönlendirmeler"
+msgstr ""
 
 msgid "Zones"
-msgstr "Bölgeler"
+msgstr ""
 
 msgid "accept"
-msgstr "kabul et"
+msgstr ""
 
 msgid "any"
-msgstr "herhangi"
+msgstr ""
 
 msgid "any host"
 msgstr ""
@@ -536,22 +504,22 @@ msgid "any router IP"
 msgstr ""
 
 msgid "any zone"
-msgstr "herhangi bir bölge"
+msgstr ""
 
 msgid "day"
-msgstr "gün"
+msgstr ""
 
 msgid "don't track"
-msgstr "izleme"
+msgstr ""
 
 msgid "drop"
-msgstr "düşür"
+msgstr ""
 
 msgid "hour"
-msgstr "saat"
+msgstr ""
 
 msgid "minute"
-msgstr "dakika"
+msgstr ""
 
 msgid "not"
 msgstr ""
@@ -563,10 +531,10 @@ msgid "ports"
 msgstr ""
 
 msgid "reject"
-msgstr "reddet"
+msgstr ""
 
 msgid "second"
-msgstr "ikinci"
+msgstr ""
 
 msgid "traffic"
 msgstr ""

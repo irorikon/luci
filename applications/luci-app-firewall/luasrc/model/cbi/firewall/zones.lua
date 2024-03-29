@@ -20,6 +20,11 @@ s:option(Flag, "syn_flood", translate("Enable SYN-flood protection"))
 
 o = s:option(Flag, "drop_invalid", translate("Drop invalid packets"))
 
+o = s:option(ListValue, "fullcone", translate("Enable FullCone NAT"))
+o:value("0", translate("Disable"))
+o:value("1", translate("Compatible Mode"))
+o:value("2", translate("High Performing Mode"))
+
 p = {
 	s:option(ListValue, "input", translate("Input")),
 	s:option(ListValue, "output", translate("Output")),

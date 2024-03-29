@@ -3,16 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-03-30 17:00+0200\n"
-"PO-Revision-Date: 2021-04-06 18:08+0000\n"
-"Last-Translator: Giovanni Giacobbi <giovanni@giacobbi.net>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsfirewall/it/>\n"
+"PO-Revision-Date: 2017-09-02 23:05+0200\n"
+"Last-Translator: bubu83 <bubu83@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6-dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.4\n"
 
 msgid "%s in %s"
 msgstr ""
@@ -45,7 +44,7 @@ msgid "Accept forward"
 msgstr ""
 
 msgid "Accept input"
-msgstr "Accetta input"
+msgstr ""
 
 msgid "Action"
 msgstr "Azione"
@@ -57,7 +56,7 @@ msgid "Add and edit..."
 msgstr "Aggiungi e modifica..."
 
 msgid "Advanced Settings"
-msgstr "Impostazioni Avanzate"
+msgstr "Opzioni Avanzate"
 
 msgid "Allow forward from <em>source zones</em>:"
 msgstr "Permetti routing da <em>zone di origine</em>:"
@@ -118,7 +117,7 @@ msgid "Drop invalid packets"
 msgstr "Scarta pacchetti invalidi"
 
 msgid "Enable"
-msgstr "Abilita"
+msgstr "Attiva"
 
 msgid "Enable NAT Loopback"
 msgstr "Attiva NAT Loopback"
@@ -133,7 +132,7 @@ msgid "External IP address"
 msgstr "Indirizzo IP Esterno"
 
 msgid "External port"
-msgstr "Porta esterna"
+msgstr "Porta Esterna"
 
 msgid "External zone"
 msgstr "Zona Esterna"
@@ -178,19 +177,19 @@ msgid "From %s in %s with source %s and %s"
 msgstr "Da %s a %s con sorgente %s e %s"
 
 msgid "General Settings"
-msgstr "Impostazioni Generali"
+msgstr "Opzioni Generali"
 
 msgid "IP"
-msgstr "IP"
+msgstr ""
 
 msgid "IP range"
-msgstr "Intervallo IP"
+msgstr ""
 
 msgid "IPs"
-msgstr "IPs"
+msgstr ""
 
 msgid "IPv4"
-msgstr "IPv4"
+msgstr ""
 
 msgid "IPv4 and IPv6"
 msgstr "IPv4 e IPv6"
@@ -199,7 +198,7 @@ msgid "IPv4 only"
 msgstr "Solo IPv4"
 
 msgid "IPv6"
-msgstr "IPv6"
+msgstr ""
 
 msgid "IPv6 only"
 msgstr "Solo IPv6"
@@ -223,10 +222,10 @@ msgid "Limit log messages"
 msgstr "Limita messaggi del registro"
 
 msgid "MAC"
-msgstr "MAC"
+msgstr ""
 
 msgid "MACs"
-msgstr "MACs"
+msgstr ""
 
 msgid "MSS clamping"
 msgstr ""
@@ -576,7 +575,7 @@ msgid "any zone"
 msgstr "qualsiasi zona"
 
 msgid "day"
-msgstr "giorno"
+msgstr ""
 
 msgid "don't track"
 msgstr "non tracciare"
@@ -591,13 +590,13 @@ msgid "minute"
 msgstr ""
 
 msgid "not"
-msgstr "non"
+msgstr ""
 
 msgid "port"
 msgstr ""
 
 msgid "ports"
-msgstr "porti"
+msgstr ""
 
 msgid "reject"
 msgstr "rifiuta"
@@ -612,4 +611,4 @@ msgid "type"
 msgstr ""
 
 msgid "types"
-msgstr "tipi"
+msgstr ""

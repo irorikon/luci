@@ -1,16 +1,13 @@
 msgid ""
 msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2019-10-17 20:21+0000\n"
-"Last-Translator: Mattias Münster <mattiasmun@gmail.com>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationstransmission/sv/>\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1-dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Alternative download speed"
 msgstr "Alternativ nerladdningshastighet"
@@ -67,7 +64,7 @@ msgid "Debug"
 msgstr "Felsök"
 
 msgid "Download directory"
-msgstr "Nedladdningsmapp"
+msgstr "Nerladdningsmapp"
 
 msgid "Download queue enabled"
 msgstr "Nerladdnings-kö aktiverad"
@@ -208,16 +205,16 @@ msgid "RPC enabled"
 msgstr "RPC aktiverat"
 
 msgid "RPC password"
-msgstr "RPC-lösenord"
+msgstr "Lösenord för RPC"
 
 msgid "RPC port"
-msgstr "RPC-port"
+msgstr "Port för RPC"
 
 msgid "RPC settings"
 msgstr "Inställningar för RPC"
 
 msgid "RPC username"
-msgstr "RPC-användarnamn"
+msgstr "Användarnamn för RPC"
 
 msgid "RPC whitelist"
 msgstr "Vitlista för RPC"
@@ -235,7 +232,7 @@ msgid "Rename partial files"
 msgstr "Döp om icke fullständiga filer"
 
 msgid "Run daemon as user"
-msgstr "Kör daemon som användare"
+msgstr "Kör demonen som en användare"
 
 msgid "Scheduling"
 msgstr "Schemaläggning"

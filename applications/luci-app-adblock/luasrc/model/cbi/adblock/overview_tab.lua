@@ -6,7 +6,7 @@ local uci  = require("luci.model.uci").cursor()
 local util = require("luci.util")
 local dump = util.ubus("network.interface", "dump", {})
 
-m = Map("adblock", translate("Adblock"),
+m = Map("adblock", translate("Adblock DNS List"),
 	translate("Configuration of the adblock package to block ad/abuse domains by using DNS. ")
 	.. translatef("For further information "
 	.. "<a href=\"%s\" target=\"_blank\">"
@@ -23,12 +23,12 @@ o1.rmempty = false
 o2 = s:option(ListValue, "adb_dns", translate("DNS Backend (DNS Directory)"),
 	translate("List of supported DNS backends with their default list export directory. ")
 	.. translate("To overwrite the default path use the 'DNS Directory' option in the extra section below."))
-o2:value("dnsmasq", "dnsmasq (/tmp)")
+o2:value("dnsmasq", "dnsmasq (/tmp/dnsmasq.d)")
 o2:value("unbound", "unbound (/var/lib/unbound)")
 o2:value("named", "named (/var/lib/bind)")
 o2:value("kresd", "kresd (/etc/kresd)")
 o2:value("dnscrypt-proxy","dnscrypt-proxy (/tmp)")
-o2.default = "dnsmasq (/tmp)"
+o2.default = "dnsmasq (/tmp/dnsmasq.d)"
 o2.rmempty = false
 
 o3 = s:option(ListValue, "adb_fetchutil", translate("Download Utility"),
@@ -83,9 +83,9 @@ end
 
 des = bl:option(DummyValue, "adb_src_desc", translate("Description"))
 
-cat = bl:option(DynamicList, "adb_src_cat", translate("Archive Categories"))
-cat.datatype = "uciname"
-cat.optional = true
+-- cat = bl:option(DynamicList, "adb_src_cat", translate("Archive Categories"))
+-- cat.datatype = "uciname"
+-- cat.optional = true
 
 -- Extra options
 

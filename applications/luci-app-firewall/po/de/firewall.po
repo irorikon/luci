@@ -3,16 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-03-30 17:00+0200\n"
-"PO-Revision-Date: 2020-07-11 21:29+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsfirewall/de/>\n"
+"PO-Revision-Date: 2014-03-25 02:04+0200\n"
+"Last-Translator: laryllian <my-lucl@laryllian.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.6\n"
 
 msgid "%s in %s"
 msgstr "%s in %s"
@@ -42,10 +41,10 @@ msgid "<var>%s</var> and limit to %s"
 msgstr "<var>%s</var> und limitieren auf %s"
 
 msgid "Accept forward"
-msgstr "Erlaubte Weiterleitung"
+msgstr ""
 
 msgid "Accept input"
-msgstr "Eingang akzeptieren"
+msgstr ""
 
 msgid "Action"
 msgstr "Aktion"
@@ -66,7 +65,7 @@ msgid "Allow forward to <em>destination zones</em>:"
 msgstr "Erlaube Weiterleitung zu <em>Zielzone</em>:"
 
 msgid "Any"
-msgstr "Beliebig"
+msgstr "beliebig"
 
 msgid "Covered networks"
 msgstr "Abgedeckte Netzwerke"
@@ -97,22 +96,22 @@ msgid "Destination zone"
 msgstr "Ziel-Zone"
 
 msgid "Disable"
-msgstr "Deaktivieren"
+msgstr ""
 
 msgid "Discard forward"
-msgstr "Weiterleiten verwerfen"
+msgstr ""
 
 msgid "Discard input"
-msgstr "Eingang verwerfen"
+msgstr ""
 
 msgid "Do not rewrite"
 msgstr "Nicht umschreiben"
 
 msgid "Do not track forward"
-msgstr "Weiterleitung nicht verfolgen"
+msgstr ""
 
 msgid "Do not track input"
-msgstr "Eingang nicht verfolgen"
+msgstr ""
 
 msgid "Drop invalid packets"
 msgstr "Ungültige Pakete verwerfen"
@@ -151,7 +150,7 @@ msgid "Firewall - Port Forwards"
 msgstr "Firewall - Portweiterleitungen"
 
 msgid "Firewall - Traffic Rules"
-msgstr "Firewall - Traffic-Regeln"
+msgstr "Firewall - Verkehrsregeln"
 
 msgid "Firewall - Zone Settings"
 msgstr "Firewall - Zoneneinstellungen"
@@ -166,7 +165,7 @@ msgid "Forward to"
 msgstr "Weiterleiten an"
 
 msgid "Friday"
-msgstr "Freitag"
+msgstr ""
 
 msgid "From %s in %s"
 msgstr "Von %s in %s"
@@ -178,16 +177,16 @@ msgid "From %s in %s with source %s and %s"
 msgstr "Von %s in %s mit Quell-%s und %s"
 
 msgid "General Settings"
-msgstr "Allgemeine Einstellungen"
+msgstr "Allgemein"
 
 msgid "IP"
-msgstr "IP"
+msgstr ""
 
 msgid "IP range"
-msgstr "IP-Bereich"
+msgstr ""
 
 msgid "IPs"
-msgstr "IPs"
+msgstr ""
 
 msgid "IPv4"
 msgstr "IPv4"
@@ -205,7 +204,7 @@ msgid "IPv6 only"
 msgstr "nur IPv6"
 
 msgid "Input"
-msgstr "Eingehend"
+msgstr "Eingang"
 
 msgid "Inter-Zone Forwarding"
 msgstr "Weiterleitungen zwischen Zonen"
@@ -223,10 +222,10 @@ msgid "Limit log messages"
 msgstr "Protokollnachrichten limitieren"
 
 msgid "MAC"
-msgstr "MAC"
+msgstr ""
 
 msgid "MACs"
-msgstr "MACs"
+msgstr ""
 
 msgid "MSS clamping"
 msgstr "MSS Korrektur"
@@ -256,10 +255,10 @@ msgid ""
 msgstr "Selektiert eingehenden Verkehr nach den angegebenen Quell-Ports."
 
 msgid "Monday"
-msgstr "Montag"
+msgstr ""
 
 msgid "Month Days"
-msgstr "Monatstage"
+msgstr ""
 
 msgid "Name"
 msgstr "Name"
@@ -268,10 +267,10 @@ msgid "New SNAT rule"
 msgstr "Neue SNAT-Regel"
 
 msgid "New forward rule"
-msgstr "Neue Weiterleitungsregel"
+msgstr "Neuer Weiterleitungsregel"
 
 msgid "New input rule"
-msgstr "Neue eingehende Regel"
+msgstr "Neue Eingangsregel"
 
 msgid "New port forward"
 msgstr "Neue Portweiterleitung"
@@ -280,20 +279,18 @@ msgid "New source NAT"
 msgstr "Neues SNAT"
 
 msgid "Only match incoming traffic directed at the given IP address."
-msgstr "Selektiert nur Traffic der an die angegebene IP-Adresse gerichtet ist."
+msgstr "Selektiere nur Verkehr der an die angegebene IP-Adresse gerichtet ist."
 
 msgid "Only match incoming traffic from these MACs."
-msgstr "Selektiert nur Traffic von den angegebenen MAC-Adressen."
+msgstr "Selektiere nur Verkehr von den angegebenen MAC-Adressen."
 
 msgid "Only match incoming traffic from this IP or range."
-msgstr "Selektiert nur Traffic vom angebenem Quell-IP-Adressbereich."
+msgstr "Selektiere nur Verkehr vom angebenem Quell-IP-Adressbereich."
 
 msgid ""
 "Only match incoming traffic originating from the given source port or port "
 "range on the client host"
-msgstr ""
-"Nur eingehenden Datenverkehr, der vom angegebenen Quellport oder Portbereich "
-"des Client-Host stammt, selektieren"
+msgstr "Selektiere nur Verkehr von den angegebenen Quell-Ports auf dem Client."
 
 msgid "Open ports on router"
 msgstr "Ports auf dem Router öffnen"
@@ -302,7 +299,7 @@ msgid "Other..."
 msgstr "Anderes..."
 
 msgid "Output"
-msgstr "Ausgehend"
+msgstr "Ausgang"
 
 msgid "Passes additional arguments to iptables. Use with care!"
 msgstr ""
@@ -332,13 +329,13 @@ msgid "Redirect matched incoming traffic to the specified internal host"
 msgstr "Gefilterte Verbindungen an den angegeben internen Host weiterleiten"
 
 msgid "Refuse forward"
-msgstr "Weiterleiten ablehnen"
+msgstr ""
 
 msgid "Refuse input"
-msgstr "Eingang ablehnen"
+msgstr ""
 
 msgid "Restart Firewall"
-msgstr "Firewall neu starten"
+msgstr ""
 
 msgid "Restrict Masquerading to given destination subnets"
 msgstr "NAT auf die angegebenen Ziel-Subnetze beschränken"
@@ -366,10 +363,10 @@ msgid "Rewrite to source %s, %s"
 msgstr "Schreibe um auf Quell-%s, %s"
 
 msgid "Rule is disabled"
-msgstr "Regel ist deaktiviert"
+msgstr ""
 
 msgid "Rule is enabled"
-msgstr "Regel ist aktiviert"
+msgstr ""
 
 msgid "SNAT IP address"
 msgstr "SNAT-IP-Adresse"
@@ -378,7 +375,7 @@ msgid "SNAT port"
 msgstr "SNAT-Port"
 
 msgid "Saturday"
-msgstr "Samstag"
+msgstr ""
 
 msgid "Source IP address"
 msgstr "Quell-IP-Adresse"
@@ -408,26 +405,26 @@ msgid "Source zone"
 msgstr "Quell-Zone"
 
 msgid "Start Date (yyyy-mm-dd)"
-msgstr "Startdatum (JJJJ-MM-TT)"
+msgstr ""
 
 msgid "Start Time (hh:mm:ss)"
-msgstr "Startzeit (hh:mm:ss)"
+msgstr ""
 
 msgid "Stop Date (yyyy-mm-dd)"
-msgstr "Enddatum (JJJJ-MM-TT)"
+msgstr ""
 
 msgid "Stop Time (hh:mm:ss)"
-msgstr "Endzeit (hh:mm:ss)"
+msgstr ""
 
 msgid "Sunday"
-msgstr "Sonntag"
+msgstr ""
 
 msgid ""
 "The firewall creates zones over your network interfaces to control network "
 "traffic flow."
 msgstr ""
 "Die Firewall erstellt Netzwerkzonen über bestimmte Netzwerkschnittstellen um "
-"den Netzwerk-Traffic zu trennen."
+"den Netzverkehr zu trennen."
 
 msgid ""
 "The options below control the forwarding policies between this zone (%s) and "
@@ -437,12 +434,12 @@ msgid ""
 "rule is <em>unidirectional</em>, e.g. a forward from lan to wan does "
 "<em>not</em> imply a permission to forward from wan to lan as well."
 msgstr ""
-"Die untenstehenden Optionen regeln die Verfahrensweisen für Traffic zwischen "
+"Die untenstehenen Optionen regeln die Verfahreinsweisen für Verkehr zwischen "
 "dieser Zone (%s) und anderen Zonen. <em>Ziel-Zonen</em> decken "
-"weitergeleiteten Traffic <strong>von %q</strong> ab. <em>Quell-Zonen</em> "
-"treffen auf weitergeleiteten Traffic aus anderen Zonen zu, welcher "
+"weitergeleiteten Verkehr <strong>von %q</strong> ab. <em>Quell-Zonen</em> "
+"treffen auf weitergeleiteten Verkehr aus anderen Zonen zu, welcher "
 "<strong>an %q gerichtet</strong> ist. Die Weiterleitung gilt nur in eine "
-"Richtung, d. h. eine erlaubte Weiterleitung von LAN nach WAN bedeutet "
+"Richtung, d.h. eine erlaubte Weiterleitung von LAN nach WAN impliziert "
 "<em>nicht</em> zusätzlich die Erlaubnis, auch von WAN nach LAN "
 "weiterzuleiten."
 
@@ -461,6 +458,7 @@ msgstr ""
 "Diese Seite bietet Zugriff auf die erweiterten Eigenschaften der "
 "Verkehrsregel, zum Beispiel die Selektion nach Quell- und Zieladressen."
 
+#, fuzzy
 msgid ""
 "This section defines common properties of %q. The <em>input</em> and "
 "<em>output</em> options set the default policies for traffic entering and "
@@ -468,18 +466,18 @@ msgid ""
 "forwarded traffic between different networks within the zone. <em>Covered "
 "networks</em> specifies which available networks are members of this zone."
 msgstr ""
-"Dieser Abschnitt definiert allgemeine Eigenschaften der %q-Zone. Die "
-"<em>input</em>- und <em>output</em>-Optionen definieren die Regeln für "
-"Datenverkehr, der in diese Zone eintritt oder diese verlässt. <em>forward</"
-"em> trifft auf Datenverkehr zwischen verschiedenen Schnittstellen innerhalb "
-"dieser Zone zu. <em>Covered networks</em> definiert welche der verfügbaren "
-"Netzwerke zu dieser Zone gehören."
+"Diese Sektion definiert allgemeine Eigenschaften der %q Zone. Die "
+"<em>Eingang</em> und <em>Ausgang</em> Optionen regeln die Verfahrensweise "
+"für Verkehr der in diese Zone eintritt oder diese verlässt. "
+"<em>Weitergeleitet</em> trifft auf Verkehr zwischen verschiedenen "
+"Schnittstellen innerhalb dieser Zone zu. <em>Abgedeckte Netzwerke</em> "
+"definieren die Zugehörigkeit von Schnittstellen zu dieser Zone."
 
 msgid "Thursday"
-msgstr "Donnerstag"
+msgstr ""
 
 msgid "Time in UTC"
-msgstr "Zeit ist UTC"
+msgstr ""
 
 msgid "To %s at %s on <var>this device</var>"
 msgstr "Zu %s an %s auf <var>diesem Gerät</var>"
@@ -500,19 +498,19 @@ msgid "To source port"
 msgstr "Zu Quell-Port"
 
 msgid "Traffic Rules"
-msgstr "Traffic-Regeln"
+msgstr "Verkehrsregeln"
 
 msgid ""
 "Traffic rules define policies for packets traveling between different zones, "
 "for example to reject traffic between certain hosts or to open WAN ports on "
 "the router."
 msgstr ""
-"Traffic-Regeln bestimmen den Fluss der Pakete zwischen verschiedenen Zonen, "
-"zum Beispiel um Traffic zwischen bestimmten Rechnern zu unterbinden oder um "
+"Verkehrsregeln bestimmen den Fluss der Pakete zwischen verschiedenen Zonen, "
+"zum Beispiel um Verkehr zwischen bestimmten Rechnern zu unterbinden oder um "
 "WAN-Ports auf dem Router zu öffnen."
 
 msgid "Tuesday"
-msgstr "Dienstag"
+msgstr ""
 
 msgid "Via %s"
 msgstr "Über %s"
@@ -521,10 +519,10 @@ msgid "Via %s at %s"
 msgstr "Über %s an %s"
 
 msgid "Wednesday"
-msgstr "Mittwoch"
+msgstr ""
 
 msgid "Week Days"
-msgstr "Wochentage"
+msgstr ""
 
 msgid ""
 "You may specify multiple by selecting \"-- custom --\" and then entering "
@@ -543,7 +541,7 @@ msgid "Zones"
 msgstr "Zonen"
 
 # Die richtige Übersetzung von ACCEPT im Firewallkontext ist nicht "Annehmen" sondern "Zulassen". Man kann ja keinen
-# ausgehenden Traffic annehmen. 
+# ausgehenden Verkehr annehmen. 
 msgid "accept"
 msgstr "zulassen"
 
@@ -560,7 +558,7 @@ msgid "any zone"
 msgstr "beliebige Zone"
 
 msgid "day"
-msgstr "Tag"
+msgstr ""
 
 msgid "don't track"
 msgstr "nicht verfolgen"
@@ -569,31 +567,31 @@ msgid "drop"
 msgstr "verwerfen"
 
 msgid "hour"
-msgstr "Stunde"
+msgstr ""
 
 msgid "minute"
-msgstr "Minute"
+msgstr ""
 
 msgid "not"
-msgstr "nicht"
+msgstr ""
 
 msgid "port"
-msgstr "Port"
+msgstr ""
 
 msgid "ports"
-msgstr "Ports"
+msgstr ""
 
 msgid "reject"
 msgstr "zurückweisen"
 
 msgid "second"
-msgstr "Sekunde"
+msgstr ""
 
 msgid "traffic"
 msgstr ""
 
 msgid "type"
-msgstr "Typ"
+msgstr ""
 
 msgid "types"
-msgstr "Typen"
+msgstr ""

@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-03-31 13:27+0000\n"
-"Last-Translator: Tamas Szanto <taszanto@gmail.com>\n"
-"Language-Team: Hungarian <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationstinyproxy/hu/>\n"
-"Language: hu\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid ""
 "<em>Via proxy</em> routes requests to the given target via the specifed "
@@ -22,260 +18,238 @@ msgid ""
 "Adds an \"X-Tinyproxy\" HTTP header with the client IP address to forwarded "
 "requests"
 msgstr ""
-"\"X-Tinyproxy\" HTTP fejlécet ad az ügyfél IP-címével a továbbított "
-"kérésekhez"
 
 msgid "Allowed clients"
-msgstr "Engedélyezett ügyfelek"
+msgstr ""
 
 msgid "Allowed connect ports"
-msgstr "Engedélyezett csatlakozási portok"
+msgstr ""
 
 msgid "Bind address"
-msgstr "Cím kötése"
+msgstr ""
 
 msgid ""
 "By default, basic POSIX expressions are used for filtering. Enable this to "
 "activate extended regular expressions"
 msgstr ""
-"Alapértelmezésben csak egyszerű POSIX-formátumú kifejezéseket lehet "
-"használni. Ezzel lehet kibővített reguláris kifejezéseket engedélyezni."
 
 msgid ""
 "By default, filter strings are treated as case-insensitive. Enable this to "
 "make the matching case-sensitive"
 msgstr ""
-"Alapértelmezésben a szűrők nem nagybetűérzékenyek. Ezzel lehet "
-"nagybetűérzékeny kifejezéseket engedélyezni."
 
 msgid ""
 "By default, filtering is done based on domain names. Enable this to match "
 "against URLs instead"
 msgstr ""
-"Alapértelmezésben a szűrés tartományneveken alapul. Ezzel lehet URL-alapú "
-"szűrést engedélyezni."
 
 msgid ""
 "By default, the filter rules act as blacklist. Enable this option to only "
 "allow matched URLs or domain names"
 msgstr ""
-"Alapértelmezésben a szűrő kizárási listaként működik. Ezzel lehet "
-"engedélyezési URL-eket és tartományneveket használni."
 
 msgid ""
 "Can be either an IP address or range, a domain name or \".\" for any host "
 "without domain"
 msgstr ""
-"Lehet IP-cím, IP-címtartomány, tartománynév vagy \".\", ha a tartománynév "
-"nélküli gépneveket szeretné"
 
 msgid "Configuration"
-msgstr "Beállítás"
+msgstr ""
 
 msgid "Connection timeout"
-msgstr "Várakozási idő csatlakozásnál"
+msgstr ""
 
 msgid "Default deny"
-msgstr "Tiltás alapból"
+msgstr ""
 
 msgid "Enable Tinyproxy server"
-msgstr "Tinyproxy kiszolgáló engedélyezése"
+msgstr ""
 
 msgid "Error page"
-msgstr "Hibaoldal"
+msgstr ""
 
 msgid "Failed to retrieve statistics from url:"
-msgstr "Nem sikerült statisztikai adatokat lekérni innen:"
+msgstr ""
 
 msgid "Filter by RegExp"
-msgstr "Szűrés reg. kifejezéssel"
+msgstr ""
 
 msgid "Filter by URLs"
-msgstr "Szűrés URL-lel"
+msgstr ""
 
 msgid "Filter case-sensitive"
-msgstr "Nagybetűérzékeny mód"
+msgstr ""
 
 msgid "Filter file"
-msgstr "Szűrőfájl"
+msgstr ""
 
 msgid "Filtering and ACLs"
-msgstr "Szűrés és ACL-ek"
+msgstr ""
 
 msgid "General settings"
-msgstr "Általános beállítások"
+msgstr ""
 
 msgid "Group"
-msgstr "Csoport"
+msgstr ""
 
 msgid "HTML template file to serve for stat host requests"
-msgstr "HTML sablonfájl stat host kérések feldolgozásához"
+msgstr ""
 
 msgid "HTML template file to serve when HTTP errors occur"
-msgstr "HTML sablonfájl HTTP-hibák kezeléséhez"
+msgstr ""
 
 msgid "Header whitelist"
-msgstr "Engedélyezett fejlécek"
+msgstr ""
 
 msgid ""
 "List of IP addresses or ranges which are allowed to use the proxy server"
-msgstr "A proxy kiszolgálónál engedélyezett IP-címek és -címtartományok"
+msgstr ""
 
 msgid ""
 "List of allowed ports for the CONNECT method. A single value \"0\" allows "
 "all ports"
 msgstr ""
-"A CONNECT parancsnál engedélyezett portok listája. \"0\" esetén minden port "
-"engedélyezett."
 
 msgid "Listen address"
-msgstr "Cím figyelése"
+msgstr ""
 
 msgid "Listen port"
-msgstr "Port figyelése"
+msgstr ""
 
 msgid "Log file"
-msgstr "Naplófájl"
+msgstr ""
 
 msgid "Log file to use for dumping messages"
-msgstr "A naplófájl neve"
+msgstr ""
 
 msgid "Log level"
-msgstr "Naplózási szint"
+msgstr ""
 
 msgid "Logging verbosity of the Tinyproxy process"
-msgstr "A Tinyproxy naplózási verbozitása"
+msgstr ""
 
 msgid "Max. clients"
-msgstr "Max. ügyfélszám"
+msgstr ""
 
 msgid "Max. requests per server"
-msgstr "Max. kérésszám kiszolgálónként"
+msgstr ""
 
 msgid "Max. spare servers"
-msgstr "Max. tartalékkiszolgáló-szám"
+msgstr ""
 
 msgid "Maximum allowed number of concurrently connected clients"
-msgstr "Max. csatlakozott ügyfélszám egy időben"
+msgstr ""
 
 msgid ""
 "Maximum allowed number of requests per process. If it is exeeded, the "
 "process is restarted. Zero means unlimited."
 msgstr ""
-"Max. kérésszám folyamatonként. Túllépése esetén a folyamat újraindul. 0 "
-"esetén nincs korlát."
 
 msgid "Maximum number of prepared idle processes"
-msgstr "Max. előkészített várakozó folyamat"
+msgstr ""
 
 msgid "Maximum number of seconds an inactive connection is held open"
-msgstr "Az inaktív kapcsolatok max. nyitvahagyási ideje másodpercben"
+msgstr ""
 
 msgid "Min. spare servers"
-msgstr "A tartalékkiszolgálók min. száma"
+msgstr ""
 
 msgid "Minimum number of prepared idle processes"
-msgstr "Az előkészített várakozó folyamatok min. száma"
+msgstr ""
 
 msgid "Number of idle processes to start when launching Tinyproxy"
-msgstr "Min. elinduló várakozó folyamat a Tinyproxy elindulásakor"
+msgstr ""
 
 msgid "Plaintext file with URLs or domains to filter. One entry per line"
 msgstr ""
-"URL-eket és tartományneveket tartalmazó szöveges fájl. Minden bejegyzés "
-"külön sorba kerüljön."
 
 msgid "Policy"
-msgstr "Házirend"
+msgstr ""
 
 msgid "Privacy settings"
-msgstr "Adatvédelmi beállítások"
+msgstr ""
 
 msgid "Reject access"
-msgstr "Elutasítás"
+msgstr ""
 
 msgid "Server Settings"
-msgstr "Kiszolgáló beállításai"
+msgstr ""
 
 msgid "Server limits"
-msgstr "A kiszolgáló paraméterei"
+msgstr ""
 
 msgid ""
 "Specifies HTTP header names which are allowed to pass-through, all others "
 "are discarded. Leave empty to disable header filtering"
 msgstr ""
-"Engedélyezett HTTP fejlécek, minden más el lesz dobva. Ha üres, nem történik "
-"szűrés."
 
 msgid "Specifies the HTTP port Tinyproxy is listening on for requests"
-msgstr "A Tinyproxy ezen a porton várja a kéréseket"
+msgstr ""
 
 msgid "Specifies the Tinyproxy hostname to use in the Via HTTP header"
-msgstr "A \"Via\" HTTP fejlécekben használandó Tinyproxy gépnév"
+msgstr ""
 
 msgid ""
 "Specifies the address Tinyproxy binds to for outbound forwarded requests"
-msgstr "A kimenő, továbbítandó kérések kötési címe"
+msgstr ""
 
 msgid "Specifies the addresses Tinyproxy is listening on for requests"
-msgstr "A Tinyproxy ezeken a címeken várja a kéréseket"
+msgstr ""
 
 msgid "Specifies the group name the Tinyproxy process is running as"
-msgstr "A Tinyproxy folyamat csoportneve"
+msgstr ""
 
 msgid ""
 "Specifies the upstream proxy to use for accessing the target host. Format is "
 "<code>address:port</code>"
 msgstr ""
-"A megadott cím eléréséhez használni kívánt proxy címe. <code>cím:port</code> "
-"formátumban kell megadni."
 
 msgid "Specifies the user name the Tinyproxy process is running as"
-msgstr "A Tinyproxy folyamat felhasználóneve"
+msgstr ""
 
 msgid "Start spare servers"
-msgstr "Tartalékkiszolgálók használata"
+msgstr ""
 
 msgid "Statistics page"
-msgstr "Statisztikai oldal"
+msgstr ""
 
 msgid "Status"
-msgstr "Állapot"
+msgstr ""
 
 msgid "Target host"
-msgstr "Cím"
+msgstr ""
 
 msgid "Tinyproxy"
-msgstr "Tinyproxy"
+msgstr ""
 
 msgid "Tinyproxy Status"
-msgstr "Tinyproxy állapot"
+msgstr ""
 
 msgid "Tinyproxy is a small and fast non-caching HTTP(S)-Proxy"
-msgstr "A Tinyproxy egy kis méretű, gyors, gyorstár nélküli HTTP(S)-proxy"
+msgstr ""
 
 msgid "Upstream Proxies"
-msgstr "Továbbítási proxy-k"
+msgstr ""
 
 msgid ""
 "Upstream proxy rules define proxy servers to use when accessing certain IP "
 "addresses or domains."
-msgstr "Egyes IP-címek vagy tartományok eléréshez használandó proxy címek."
+msgstr ""
 
 msgid "Use syslog"
-msgstr "Syslog használata"
+msgstr ""
 
 msgid "User"
-msgstr "Felhasználó"
+msgstr ""
 
 msgid "Via hostname"
-msgstr "Gépnéven keresztül"
+msgstr ""
 
 msgid "Via proxy"
-msgstr "Proxy-n keresztül"
+msgstr ""
 
 msgid "Writes log messages to syslog instead of a log file"
-msgstr "Fájl helyett syslog-ba naplózzon"
+msgstr ""
 
 msgid "X-Tinyproxy header"
-msgstr "X-Tinyproxy fejléc"
+msgstr ""

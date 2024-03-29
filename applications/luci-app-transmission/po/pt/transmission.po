@@ -3,85 +3,84 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-31 23:40+0200\n"
-"PO-Revision-Date: 2021-05-10 09:32+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
-"Language-Team: Portuguese <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationstransmission/pt/>\n"
+"PO-Revision-Date: 2013-05-31 23:47+0200\n"
+"Last-Translator: joao.f.vieira <joao.f.vieira@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.6\n"
 
 msgid "Alternative download speed"
-msgstr "Velocidade de descarrega alternativa"
+msgstr "Velocidade de download alternativa"
 
 msgid "Alternative speed enabled"
 msgstr "Velocidade alternativa activada"
 
 msgid "Alternative speed time begin"
-msgstr "Hora de início da velocidade alternativa"
+msgstr ""
 
 msgid "Alternative speed time day"
-msgstr "Dia da velocidade alternativa"
+msgstr ""
 
 msgid "Alternative speed time end"
-msgstr "Hora final da velocidade alternativa"
+msgstr ""
 
 msgid "Alternative speed timing enabled"
-msgstr "Temporização da velocidade alternativa ativada"
+msgstr ""
 
 msgid "Alternative upload speed"
-msgstr "Velocidade de subida alternativa"
+msgstr ""
 
 msgid "Automatically start added torrents"
-msgstr "Iniciar automaticamente os torrents adicionados"
+msgstr ""
 
 msgid "Bandwidth settings"
 msgstr "Definições de largura de banda"
 
 msgid "Binding address IPv4"
-msgstr "Endereço de escuta IPv4"
+msgstr ""
 
 msgid "Binding address IPv6"
-msgstr "Endereço de escuta IPv6"
+msgstr ""
 
 msgid "Block list enabled"
-msgstr "Lista de Bloqueios ativada"
+msgstr ""
 
 msgid "Blocklist URL"
-msgstr "URL da lista de bloqueio"
+msgstr ""
 
 msgid "Blocklists"
-msgstr "Lista de Bloqueio"
+msgstr ""
 
 msgid "Cache size in MB"
-msgstr "Tamanho em MB do cache"
+msgstr ""
 
 msgid "Config file directory"
-msgstr "Diretório do ficheiro de configuração"
+msgstr "Directório do ficheiro de configuração"
 
 msgid "DHT enabled"
-msgstr "DHT ativado"
+msgstr ""
 
 msgid "Debug"
-msgstr "Depuração"
+msgstr "Depurar"
 
 msgid "Download directory"
-msgstr "Descarregar directório"
+msgstr ""
 
 msgid "Download queue enabled"
-msgstr "Fila para descarregarr ativada"
+msgstr ""
 
 msgid "Download queue size"
-msgstr "Tamanho da fila para descarregar"
+msgstr ""
 
 msgid "Enable watch directory"
-msgstr "Ativar monitoramento de diretório"
+msgstr ""
 
 msgid "Enabled"
-msgstr "Ativado"
+msgstr ""
 
 msgid "Encryption"
 msgstr "Encriptação"
@@ -99,40 +98,40 @@ msgid "Forced"
 msgstr "Forçado"
 
 msgid "Full"
-msgstr "Cheio"
+msgstr ""
 
 msgid "Global peer limit"
-msgstr "Limite global de parceiros conectados"
+msgstr ""
 
 msgid "Global settings"
-msgstr "Configurações globais"
+msgstr ""
 
 msgid "Idle seeding limit"
-msgstr "Limite para parar de semear se ocioso"
+msgstr ""
 
 msgid "Idle seeding limit enabled"
-msgstr "Ativar limite para parar de semear se ocioso"
+msgstr ""
 
 msgid "Incomplete directory"
-msgstr "Diretório de incompletos"
+msgstr ""
 
 msgid "Incomplete directory enabled"
-msgstr "Ativado diretório incompletos"
+msgstr ""
 
 msgid "Info"
 msgstr "Info"
 
 msgid "LPD enabled"
-msgstr "LPD ativado"
+msgstr ""
 
 msgid "Lazy bitfield enabled"
-msgstr "Envio de campo de bits incompletos ativado"
+msgstr ""
 
 msgid "Message level"
-msgstr "Nível de mensagens"
+msgstr ""
 
 msgid "Miscellaneous"
-msgstr "Diversos"
+msgstr ""
 
 msgid "None"
 msgstr "Nenhum"
@@ -142,10 +141,6 @@ msgid ""
 "enabled, add a value. For Sunday - 1, Monday - 2, Tuesday - 4, Wednesday - "
 "8, Thursday - 16, Friday - 32, Saturday - 64"
 msgstr ""
-"Número/Campo de bits. Comece com 0 e, então, para cada dia você quer o "
-"agendador ativado, adicione um valor. Para domingo - 1, segunda-feira - 2, "
-"terça-feira - 4, quarta-feira - 8, quinta-feira - 16, sexta-feira - 32, "
-"Sábado - 64"
 
 msgid "Off"
 msgstr "Desligado"
@@ -157,64 +152,64 @@ msgid "PEX enabled"
 msgstr "PEX ativado"
 
 msgid "Peer Port settings"
-msgstr "Configuração de porta do parceiro"
+msgstr ""
 
 msgid "Peer congestion algorithm"
-msgstr "Algoritmo de congestionamento dos parceiro"
+msgstr ""
 
 msgid "Peer limit per torrent"
-msgstr "Limite de torrents por parceiro"
+msgstr ""
 
 msgid "Peer port"
-msgstr "Porta do parceiro"
+msgstr ""
 
 msgid "Peer port random high"
-msgstr "Limite superior da porta aleatória do parceiro"
+msgstr ""
 
 msgid "Peer port random low"
-msgstr "Limite inferior da porta aleatória do parceiro"
+msgstr ""
 
 msgid "Peer port random on start"
-msgstr "Porta aleatória inicial do parceiro"
+msgstr ""
 
 msgid "Peer settings"
-msgstr "Configuração do parceiro"
+msgstr ""
 
 msgid "Peer socket tos"
-msgstr "TOS da conexão do parceiro"
+msgstr ""
 
 msgid "Port forwarding enabled"
-msgstr "Encaminhamento de porta ativado"
+msgstr ""
 
 msgid "Preferred"
-msgstr "Preferencial"
+msgstr ""
 
 msgid "Prefetch enabled"
-msgstr "Adiantamento de leitura de disco ativado"
+msgstr ""
 
 msgid "Queue stalled enabled"
-msgstr "Parada de fila ativada"
+msgstr ""
 
 msgid "Queue stalled minutes"
-msgstr "Parada de fila em minutos"
+msgstr ""
 
 msgid "Queueing"
-msgstr "Filas"
+msgstr ""
 
 msgid "RPC URL"
 msgstr "URL RPC"
 
 msgid "RPC authentication required"
-msgstr "RPC requer autenticação"
+msgstr ""
 
 msgid "RPC bind address"
-msgstr "Endereço de escuta do RPC"
+msgstr ""
 
 msgid "RPC enabled"
 msgstr "RPC ativado"
 
 msgid "RPC password"
-msgstr "Palavra-passe de RPC"
+msgstr "Password RPC"
 
 msgid "RPC port"
 msgstr "Porta RPC"
@@ -223,58 +218,58 @@ msgid "RPC settings"
 msgstr "Definições RPC"
 
 msgid "RPC username"
-msgstr "Nome do utilizador RPC"
+msgstr "Utilizador RPC"
 
 msgid "RPC whitelist"
-msgstr "Lista branca do RPC"
+msgstr ""
 
 msgid "RPC whitelist enabled"
-msgstr "Lista branca do RPC ativada"
+msgstr ""
 
 msgid "Ratio limit"
-msgstr "Limite da relação"
+msgstr ""
 
 msgid "Ratio limit enabled"
-msgstr "Limite da relação ativado"
+msgstr ""
 
 msgid "Rename partial files"
-msgstr "Renomear ficheiros parciais"
+msgstr ""
 
 msgid "Run daemon as user"
-msgstr "Executar serviço como utilizador"
+msgstr "Executar serviço como"
 
 msgid "Scheduling"
 msgstr "Agendamento"
 
 msgid "Scrape paused torrents enabled"
-msgstr "Busca de informações de torrents pausados ativada"
+msgstr ""
 
 msgid "Script torrent done enabled"
-msgstr "Script de conclusão de torrent ativado"
+msgstr ""
 
 msgid "Script torrent done filename"
-msgstr "Nome do ficheiro do script de conclusão de torrent"
+msgstr ""
 
 msgid "Seed queue enabled"
-msgstr "Fila de semeadura ativada"
+msgstr ""
 
 msgid "Seed queue size"
-msgstr "Tamanho da fila de semeadura"
+msgstr ""
 
 msgid "Speed limit down"
-msgstr "Limite inferior de velocidade"
+msgstr ""
 
 msgid "Speed limit down enabled"
-msgstr "Limite inferior de velocidade ativado"
+msgstr ""
 
 msgid "Speed limit up"
-msgstr "Limite superior de velocidade"
+msgstr ""
 
 msgid "Speed limit up enabled"
-msgstr "Limite superior de velocidade ativado"
+msgstr ""
 
 msgid "Transmission"
-msgstr "Transmission"
+msgstr ""
 
 msgid ""
 "Transmission daemon is a simple bittorrent client, here you can configure "
@@ -284,19 +279,19 @@ msgstr ""
 "definições."
 
 msgid "Trash original torrent files"
-msgstr "Apague os ficheiros torrent originais"
+msgstr ""
 
 msgid "Upload slots per torrent"
-msgstr "Vagas para conexão de envio por torrent"
+msgstr ""
 
 msgid "Watch directory"
-msgstr "Monitorar diretório"
+msgstr ""
 
 msgid "in minutes from midnight"
-msgstr "em minutos a partir da meia-noite"
+msgstr ""
 
 msgid "preallocation"
-msgstr "pré-alocação"
+msgstr ""
 
 msgid "uTP enabled"
-msgstr "uTP ativado"
+msgstr ""

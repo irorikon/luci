@@ -3,17 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-03-30 17:00+0200\n"
-"PO-Revision-Date: 2021-04-25 15:52+0000\n"
-"Last-Translator: Matthaiks <kitynska@gmail.com>\n"
-"Language-Team: Polish <https://hosted.weblate.org/projects/openwrt/"
-"luciapplicationsfirewall/pl/>\n"
+"PO-Revision-Date: 2013-06-22 15:49+0200\n"
+"Last-Translator: obsy <cezary@eko.one.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.6\n"
 
 msgid "%s in %s"
 msgstr "%s w %s"
@@ -34,23 +33,23 @@ msgid "(Unnamed SNAT)"
 msgstr "(Nienazwany SNAT)"
 
 msgid "<var>%d</var> pkts. per <var>%s</var>"
-msgstr "<var>%d</var> pakietów na <var>%s</var>"
+msgstr "<var>%d</var> pakiet. na <var>%s</var>"
 
 msgid "<var>%d</var> pkts. per <var>%s</var>, burst <var>%d</var> pkts."
 msgstr ""
-"<var>%d</var> pakietów na <var>%s</var>, popsutych <var>%d</var> pakietów."
+"<var>%d</var> pakiet. na <var>%s</var>, popsutych <var>%d</var> pakiet."
 
 msgid "<var>%s</var> and limit to %s"
-msgstr "<var>%s</var> i limit do %s"
+msgstr "<var>%s</var> i ograniczone do %s"
 
 msgid "Accept forward"
-msgstr "Zaakceptuj przekazywanie"
+msgstr ""
 
 msgid "Accept input"
-msgstr "Zaakceptuj wejście"
+msgstr ""
 
 msgid "Action"
-msgstr "Akcja"
+msgstr "Działanie"
 
 msgid "Add"
 msgstr "Dodaj"
@@ -62,10 +61,10 @@ msgid "Advanced Settings"
 msgstr "Ustawienia zaawansowane"
 
 msgid "Allow forward from <em>source zones</em>:"
-msgstr "Zezwól na przekazywanie z <em>strefy źródłowej</em>:"
+msgstr "Zezwól na przekazywanie z <em>source zones</em>:"
 
 msgid "Allow forward to <em>destination zones</em>:"
-msgstr "Zezwól na przekazywanie do <em>strefy docelowej</em>:"
+msgstr "Zezwól na przekazywanie do <em>destination zones</em>:"
 
 msgid "Any"
 msgstr "Każdy"
@@ -101,19 +100,19 @@ msgid "Disable"
 msgstr ""
 
 msgid "Discard forward"
-msgstr "Odrzuć przekazywanie"
+msgstr ""
 
 msgid "Discard input"
-msgstr "Odrzuć wejście"
+msgstr ""
 
 msgid "Do not rewrite"
 msgstr "Nie przepisuj"
 
 msgid "Do not track forward"
-msgstr "Nie śledź przekazywania"
+msgstr ""
 
 msgid "Do not track input"
-msgstr "Nie śledź wejścia"
+msgstr ""
 
 msgid "Drop invalid packets"
 msgstr "Porzuć wadliwe pakiety"
@@ -125,10 +124,10 @@ msgid "Enable NAT Loopback"
 msgstr "Włącz NAT Loopback"
 
 msgid "Enable SYN-flood protection"
-msgstr "Włącz ochronę SYN-flood"
+msgstr "Włącz ochronę przed atakiem SYN-flood"
 
 msgid "Enable logging on this zone"
-msgstr "Włącz logowanie tej strefy"
+msgstr "Włącz logowanie na tej strefy"
 
 msgid "External IP address"
 msgstr "Zewnętrzne adresy IP"
@@ -146,19 +145,19 @@ msgstr "Dodatkowe argumenty"
 # Generated from applications/luci-fw/luasrc/model/cbi/luci_fw/zones.lua      #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 msgid "Firewall"
-msgstr "Zapora sieciowa"
+msgstr "Zapora"
 
 msgid "Firewall - Custom Rules"
-msgstr "Zapora sieciowa - Własne reguły"
+msgstr "Zapora - Reguły własne"
 
 msgid "Firewall - Port Forwards"
-msgstr "Zapora sieciowa - Przekazywane porty"
+msgstr "Zapora - Przekazywanie portów"
 
 msgid "Firewall - Traffic Rules"
-msgstr "Zapora sieciowa - Reguły ruchu"
+msgstr "Zapora - Reguły ruchu"
 
 msgid "Firewall - Zone Settings"
-msgstr "Zapora sieciowa - Ustawienia strefy"
+msgstr "Zapora - Ustawienia strefy"
 
 msgid "Force connection tracking"
 msgstr "Wymuś śledzenie połączeń"
@@ -170,7 +169,7 @@ msgid "Forward to"
 msgstr "Przekazuj do"
 
 msgid "Friday"
-msgstr "Piątek"
+msgstr ""
 
 msgid "From %s in %s"
 msgstr "Z %s w %s"
@@ -182,16 +181,16 @@ msgid "From %s in %s with source %s and %s"
 msgstr "Z %s w %s ze źródłem %s i %s"
 
 msgid "General Settings"
-msgstr "Ustawienia główne"
+msgstr "Ustawienia ogólne"
 
 msgid "IP"
-msgstr "IP"
+msgstr ""
 
 msgid "IP range"
-msgstr "Zakres IP"
+msgstr ""
 
 msgid "IPs"
-msgstr "IPs"
+msgstr ""
 
 msgid "IPv4"
 msgstr "IPv4"
@@ -218,7 +217,7 @@ msgid "Internal IP address"
 msgstr "Wewnętrzny adres IP"
 
 msgid "Internal port"
-msgstr "Port wewnętrzny"
+msgstr "Wewnętrzny port"
 
 msgid "Internal zone"
 msgstr "Strefa wewnętrzna"
@@ -227,10 +226,10 @@ msgid "Limit log messages"
 msgstr "Ograniczenie logowania"
 
 msgid "MAC"
-msgstr "MAC"
+msgstr ""
 
 msgid "MACs"
-msgstr "MACs"
+msgstr ""
 
 msgid "MSS clamping"
 msgstr "Dostosuj MSS"
@@ -263,10 +262,10 @@ msgstr ""
 "portów na hoście klienta."
 
 msgid "Monday"
-msgstr "Poniedziałek"
+msgstr ""
 
 msgid "Month Days"
-msgstr "Dni miesiąca"
+msgstr ""
 
 msgid "Name"
 msgstr "Nazwa"
@@ -309,20 +308,20 @@ msgid "Other..."
 msgstr "Inne..."
 
 msgid "Output"
-msgstr "Ruch wychodzący"
+msgstr "Wyjście (Output)"
 
 msgid "Passes additional arguments to iptables. Use with care!"
 msgstr ""
 "Przekazuje dodatkowe argumenty do iptables. Zachowaj szczególną ostrożność!"
 
 msgid "Port Forwards"
-msgstr "Przekazywanie portów"
+msgstr "Przekierowania portów"
 
 msgid ""
 "Port forwarding allows remote computers on the Internet to connect to a "
 "specific computer or service within the private LAN."
 msgstr ""
-"Przekazanie portów pozwala komputerom z internetu na połączenia z "
+"Przekierowanie portów pozwala komputerom z internetu na połączenia z "
 "komputerami z sieci LAN."
 
 msgid "Protocol"
@@ -338,19 +337,19 @@ msgid "Redirect matched incoming traffic to the specified internal host"
 msgstr "Przekieruj ruch przychodzący do wskazanego hosta w sieci wewnętrznej"
 
 msgid "Refuse forward"
-msgstr "Odmowa przekazania"
+msgstr ""
 
 msgid "Refuse input"
-msgstr "Odmowa wejścia"
+msgstr ""
 
 msgid "Restart Firewall"
 msgstr ""
 
 msgid "Restrict Masquerading to given destination subnets"
-msgstr "Ogranicz maskaradę do wskazanych podsieci docelowych"
+msgstr "Ogranicz maskaradę do wskazanych sieci docelowych"
 
 msgid "Restrict Masquerading to given source subnets"
-msgstr "Ogranicz maskaradę do wskazanych podsieci źródłowych"
+msgstr "Ogranicz maskaradę do wskazanych sieci źródłowych"
 
 # Wstawiłem rodzinę gdyż gdzieś wcześniej było tak opisane ale klasa pasuje mi tu bardziej.
 # Obsy - niestety ale "rodzina". W gui dotyczy to wyboru IPv4/IPv6, więc "rodzina" a nie klasa.
@@ -388,7 +387,7 @@ msgid "SNAT port"
 msgstr "Port SNAT"
 
 msgid "Saturday"
-msgstr "Sobota"
+msgstr ""
 
 msgid "Source IP address"
 msgstr "Źródłowy adres IP"
@@ -420,25 +419,25 @@ msgid "Source zone"
 msgstr "Strefa źródłowa"
 
 msgid "Start Date (yyyy-mm-dd)"
-msgstr "Data rozpoczęcia (rrrr-mm-dd)"
+msgstr ""
 
 msgid "Start Time (hh:mm:ss)"
 msgstr ""
 
 msgid "Stop Date (yyyy-mm-dd)"
-msgstr "Data zakończenia (yyyyy-mm-dd)"
+msgstr ""
 
 msgid "Stop Time (hh:mm:ss)"
 msgstr ""
 
 msgid "Sunday"
-msgstr "Niedziela"
+msgstr ""
 
 msgid ""
 "The firewall creates zones over your network interfaces to control network "
 "traffic flow."
 msgstr ""
-"Zapora tworzy strefy z twoich interfejsów sieciowych, aby kontrolować ruch "
+"Firewall tworzy strefy z Twoich interfejsów sieciowych, aby kontrolować ruch "
 "sieciowy."
 
 msgid ""
@@ -470,6 +469,7 @@ msgstr ""
 "Ta strona pozwala zmienić zaawansowane ustawienia reguły ruchu sieciowego, "
 "takie jak pasujące źródło i hosty docelowe."
 
+#, fuzzy
 msgid ""
 "This section defines common properties of %q. The <em>input</em> and "
 "<em>output</em> options set the default policies for traffic entering and "
@@ -477,17 +477,17 @@ msgid ""
 "forwarded traffic between different networks within the zone. <em>Covered "
 "networks</em> specifies which available networks are members of this zone."
 msgstr ""
-"Ta sekcja definiuje ustawienia ogólne %q. Opcje <em>wejście</em> i "
-"<em>wyjście</em> określające domyślną politykę dla ruchu przychodzącego i "
-"wychodzącego w tej strefie, podczas gdy <em>przekazywanie</em> opisuje "
+"Ta sekcja definiuje ustawienia ogólne %q. Opcje <em>\"wejście\"</em> i <em>"
+"\"wyjście\"</em> określają domyślną politykę dla ruchu przychodzącego i "
+"wychodzącego w tej strefie, podczas gdy <em>\"przekazywanie\"</em> opisuje "
 "politykę ruchu przekazywanego pomiędzy różnymi sieciami wewnątrz strefy. "
 "<em>Objęte sieci</em> określają dostępne sieci będące członkami tej strefy."
 
 msgid "Thursday"
-msgstr "Czwartek"
+msgstr ""
 
 msgid "Time in UTC"
-msgstr "Czas w UTC"
+msgstr ""
 
 msgid "To %s at %s on <var>this device</var>"
 msgstr "Do %s w %s na <var>tym urządzeniu</var>"
@@ -516,10 +516,11 @@ msgid ""
 "the router."
 msgstr ""
 "Reguły ruchu sieciowego definiują politykę dla pakietów przechodzących "
-"między strefami, np. aby odrzucać ruch między hostami lub otworzyć porty WAN."
+"między strefami, na przykład aby odrzucać ruch między konkretnymi hostami "
+"albo otworzyć porty WAN routera."
 
 msgid "Tuesday"
-msgstr "Wtorek"
+msgstr ""
 
 msgid "Via %s"
 msgstr "Przez %s"
@@ -528,10 +529,10 @@ msgid "Via %s at %s"
 msgstr "Przez %s w %s"
 
 msgid "Wednesday"
-msgstr "Środa"
+msgstr ""
 
 msgid "Week Days"
-msgstr "Dni tygodnia"
+msgstr ""
 
 msgid ""
 "You may specify multiple by selecting \"-- custom --\" and then entering "
@@ -565,40 +566,40 @@ msgid "any zone"
 msgstr "dowolna strefa"
 
 msgid "day"
-msgstr "dzień"
+msgstr ""
 
 msgid "don't track"
 msgstr "nie śledź"
 
 msgid "drop"
-msgstr "porzuć"
+msgstr "porzucaj"
 
 msgid "hour"
-msgstr "godzina"
+msgstr ""
 
 msgid "minute"
-msgstr "minuta"
+msgstr ""
 
 msgid "not"
-msgstr "Nie"
+msgstr ""
 
 msgid "port"
-msgstr "port"
+msgstr ""
 
 msgid "ports"
-msgstr "porty"
+msgstr ""
 
 msgid "reject"
 msgstr "odrzucaj"
 
 msgid "second"
-msgstr "sekunda"
+msgstr ""
 
 msgid "traffic"
 msgstr ""
 
 msgid "type"
-msgstr "typ"
+msgstr ""
 
 msgid "types"
-msgstr "typy"
+msgstr ""
